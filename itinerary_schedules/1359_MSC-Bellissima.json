@@ -1,0 +1,2310 @@
+{
+  "Cruise-Ship-Code": 1359,
+  "Cruise-Ship": "MSC Bellissima",
+  "Itineraries": [
+    {
+      "Itinerary-No": 4026182,
+      "Departure-Date": "2025/03/29",
+      "Itinerary-Title": "4 days, one-way from Keelung to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/03/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/01 16:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/04/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4026183,
+      "Departure-Date": "2025/04/02",
+      "Itinerary-Title": "10 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/04/02 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/03 18:00",
+          "Date-Time(to)": "2025/04/04 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/06 09:00",
+          "Date-Time(to)": "2025/04/06 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/08 08:00",
+          "Date-Time(to)": "2025/04/08 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/09 09:00",
+          "Date-Time(to)": "2025/04/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 2031,
+          "Port-Name": "Akita City, Japan Akita"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/10 08:00",
+          "Date-Time(to)": "2025/04/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 474,
+          "Port-Name": "Hakodate, Japan Oshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/04/12 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127874,
+      "Departure-Date": "2025/04/30",
+      "Itinerary-Title": "8 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/04/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/03 07:00",
+          "Date-Time(to)": "2025/05/03 18:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/04 07:00",
+          "Date-Time(to)": "2025/05/04 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/05 07:00",
+          "Date-Time(to)": "2025/05/05 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/06 12:00",
+          "Date-Time(to)": "2025/05/06 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/08 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127875,
+      "Departure-Date": "2025/05/08",
+      "Itinerary-Title": "5 days, one-way from Tokyo to Yokohama",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/08 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/10 16:00",
+          "Date-Time(to)": "2025/05/10 22:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/11 08:00",
+          "Date-Time(to)": "2025/05/11 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/13 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 8,
+          "Port-Name": "Yokohama, Tokyo, Japan Kanagawa"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127876,
+      "Departure-Date": "2025/05/13",
+      "Itinerary-Title": "5 days, one-way from Yokohama to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 8,
+          "Port-Name": "Yokohama, Tokyo, Japan Kanagawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/15 16:00",
+          "Date-Time(to)": "2025/05/15 22:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/16 08:00",
+          "Date-Time(to)": "2025/05/16 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/18 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127877,
+      "Departure-Date": "2025/06/05",
+      "Itinerary-Title": "3 days, one-way from Tokyo to Keelung",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/05 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/08 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127878,
+      "Departure-Date": "2025/09/07",
+      "Itinerary-Title": "4 days, one-way from Shanghai to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/07 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/10 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127879,
+      "Departure-Date": "2025/10/13",
+      "Itinerary-Title": "7 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/10/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/14 18:00",
+          "Date-Time(to)": "2025/10/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/17 07:00",
+          "Date-Time(to)": "2025/10/17 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/18 07:00",
+          "Date-Time(to)": "2025/10/18 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1799,
+          "Port-Name": "Yatsushiro-Kumamoto City, Japan Kumamoto"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/20 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127880,
+      "Departure-Date": "2025/10/20",
+      "Itinerary-Title": "5 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/10/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/22 16:00",
+          "Date-Time(to)": "2025/10/22 22:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/23 08:00",
+          "Date-Time(to)": "2025/10/23 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/25 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127882,
+      "Departure-Date": "2025/11/12",
+      "Itinerary-Title": "7 days, one-way from Tokyo to Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/15 08:00",
+          "Date-Time(to)": "2025/11/15 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/16 08:00",
+          "Date-Time(to)": "2025/11/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/17 08:00",
+          "Date-Time(to)": "2025/11/17 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/19 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127881,
+      "Departure-Date": "2025/11/12",
+      "Itinerary-Title": "9 days, one-way from Tokyo to Keelung",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/15 08:00",
+          "Date-Time(to)": "2025/11/15 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/16 08:00",
+          "Date-Time(to)": "2025/11/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/17 08:00",
+          "Date-Time(to)": "2025/11/17 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/19 07:00",
+          "Date-Time(to)": "2025/11/19 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/20 09:00",
+          "Date-Time(to)": "2025/11/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/21 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127883,
+      "Departure-Date": "2025/11/19",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/19 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/20 09:00",
+          "Date-Time(to)": "2025/11/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/21 07:00",
+          "Date-Time(to)": "2025/11/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/22 08:00",
+          "Date-Time(to)": "2025/11/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127884,
+      "Departure-Date": "2025/11/21",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/22 08:00",
+          "Date-Time(to)": "2025/11/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/23 07:00",
+          "Date-Time(to)": "2025/11/23 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24 09:00",
+          "Date-Time(to)": "2025/11/24 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/25 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127885,
+      "Departure-Date": "2025/11/23",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/23 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24 09:00",
+          "Date-Time(to)": "2025/11/24 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/25 07:00",
+          "Date-Time(to)": "2025/11/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127886,
+      "Departure-Date": "2025/11/25",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26 15:00",
+          "Date-Time(to)": "2025/11/27 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/28 09:00",
+          "Date-Time(to)": "2025/11/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/29 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127887,
+      "Departure-Date": "2025/11/27",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/27 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/28 09:00",
+          "Date-Time(to)": "2025/11/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29 07:00",
+          "Date-Time(to)": "2025/11/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/30 08:00",
+          "Date-Time(to)": "2025/11/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/01 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127888,
+      "Departure-Date": "2025/11/29",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/30 08:00",
+          "Date-Time(to)": "2025/11/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01 07:00",
+          "Date-Time(to)": "2025/12/02 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/03 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127889,
+      "Departure-Date": "2025/12/01",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/01",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02",
+          "Date-Time(to)": "2025/12/02 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/03 07:00",
+          "Date-Time(to)": "2025/12/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/04 08:00",
+          "Date-Time(to)": "2025/12/04 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/05 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127890,
+      "Departure-Date": "2025/12/03",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/04 08:00",
+          "Date-Time(to)": "2025/12/04 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/05 07:00",
+          "Date-Time(to)": "2025/12/05 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/06 09:00",
+          "Date-Time(to)": "2025/12/06 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/07 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127891,
+      "Departure-Date": "2025/12/05",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/05 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/06 09:00",
+          "Date-Time(to)": "2025/12/06 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 07:00",
+          "Date-Time(to)": "2025/12/07 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 08:00",
+          "Date-Time(to)": "2025/12/08 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/09 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127892,
+      "Departure-Date": "2025/12/07",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/07 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 08:00",
+          "Date-Time(to)": "2025/12/08 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/09 07:00",
+          "Date-Time(to)": "2025/12/09 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/11 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127893,
+      "Departure-Date": "2025/12/09",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/09 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/11 07:00",
+          "Date-Time(to)": "2025/12/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127894,
+      "Departure-Date": "2025/12/11",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 15:00",
+          "Date-Time(to)": "2025/12/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 09:00",
+          "Date-Time(to)": "2025/12/14 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/15 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127895,
+      "Departure-Date": "2025/12/13",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 09:00",
+          "Date-Time(to)": "2025/12/14 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/15 07:00",
+          "Date-Time(to)": "2025/12/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/17 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127896,
+      "Departure-Date": "2025/12/15",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/17 07:00",
+          "Date-Time(to)": "2025/12/17 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/18 09:00",
+          "Date-Time(to)": "2025/12/18 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/19 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127897,
+      "Departure-Date": "2025/12/17",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/17 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/18 09:00",
+          "Date-Time(to)": "2025/12/18 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/19 07:00",
+          "Date-Time(to)": "2025/12/19 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/20 08:00",
+          "Date-Time(to)": "2025/12/20 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/21 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127898,
+      "Departure-Date": "2025/12/19",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/19 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/20 08:00",
+          "Date-Time(to)": "2025/12/20 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 07:00",
+          "Date-Time(to)": "2025/12/21 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 09:00",
+          "Date-Time(to)": "2025/12/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127899,
+      "Departure-Date": "2025/12/21",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/21 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 09:00",
+          "Date-Time(to)": "2025/12/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/23 07:00",
+          "Date-Time(to)": "2025/12/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127900,
+      "Departure-Date": "2025/12/23",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 15:00",
+          "Date-Time(to)": "2025/12/25 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/26 09:00",
+          "Date-Time(to)": "2025/12/26 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/27 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127901,
+      "Departure-Date": "2025/12/25",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/25 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/26 09:00",
+          "Date-Time(to)": "2025/12/26 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 07:00",
+          "Date-Time(to)": "2025/12/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/28 08:00",
+          "Date-Time(to)": "2025/12/28 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/29 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127902,
+      "Departure-Date": "2025/12/27",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/28 08:00",
+          "Date-Time(to)": "2025/12/28 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 07:00",
+          "Date-Time(to)": "2025/12/29 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 09:00",
+          "Date-Time(to)": "2025/12/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/31 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127903,
+      "Departure-Date": "2025/12/29",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/29 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 09:00",
+          "Date-Time(to)": "2025/12/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/31 07:00",
+          "Date-Time(to)": "2025/12/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/01 08:00",
+          "Date-Time(to)": "2026/01/01 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/02 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127904,
+      "Departure-Date": "2025/12/31",
+      "Itinerary-Title": "5 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/01 08:00",
+          "Date-Time(to)": "2026/01/01 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/02 07:00",
+          "Date-Time(to)": "2026/01/03 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 10:00",
+          "Date-Time(to)": "2026/01/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/05 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127905,
+      "Departure-Date": "2026/01/02",
+      "Itinerary-Title": "5 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/02",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/03",
+          "Date-Time(to)": "2026/01/03 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 10:00",
+          "Date-Time(to)": "2026/01/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 07:00",
+          "Date-Time(to)": "2026/01/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/06 08:00",
+          "Date-Time(to)": "2026/01/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/07 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127906,
+      "Departure-Date": "2026/01/05",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/06 08:00",
+          "Date-Time(to)": "2026/01/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 07:00",
+          "Date-Time(to)": "2026/01/07 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/08 09:00",
+          "Date-Time(to)": "2026/01/08 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/09 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127907,
+      "Departure-Date": "2026/01/07",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/07 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/08 09:00",
+          "Date-Time(to)": "2026/01/08 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09 07:00",
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/10 08:00",
+          "Date-Time(to)": "2026/01/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/11 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127908,
+      "Departure-Date": "2026/01/09",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/10 08:00",
+          "Date-Time(to)": "2026/01/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 07:00",
+          "Date-Time(to)": "2026/01/11 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/12 09:00",
+          "Date-Time(to)": "2026/01/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/13 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127909,
+      "Departure-Date": "2026/01/11",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/11 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/12 09:00",
+          "Date-Time(to)": "2026/01/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 07:00",
+          "Date-Time(to)": "2026/01/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/14 08:00",
+          "Date-Time(to)": "2026/01/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/15 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127910,
+      "Departure-Date": "2026/01/13",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/14 08:00",
+          "Date-Time(to)": "2026/01/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/15 07:00",
+          "Date-Time(to)": "2026/01/15 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/16 09:00",
+          "Date-Time(to)": "2026/01/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/17 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127911,
+      "Departure-Date": "2026/01/15",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/15 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/16 09:00",
+          "Date-Time(to)": "2026/01/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/17 07:00",
+          "Date-Time(to)": "2026/01/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/19 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127912,
+      "Departure-Date": "2026/01/17",
+      "Itinerary-Title": "4 days, round-trip Asia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 00:01",
+          "Date-Time(to)": "2026/01/19 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/20 09:00",
+          "Date-Time(to)": "2026/01/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/21 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4127913,
+      "Departure-Date": "2026/01/19",
+      "Itinerary-Title": "5 days, one-way from Naha to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/19 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/20 09:00",
+          "Date-Time(to)": "2026/01/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 07:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/24 05:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    }
+  ]
+}

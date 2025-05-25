@@ -1,0 +1,4327 @@
+{
+  "Cruise-Ship-Code": 1867,
+  "Cruise-Ship": "Hanseatic Spirit",
+  "Itineraries": [
+    {
+      "Itinerary-No": 3608595,
+      "Departure-Date": "2025/04/22",
+      "Itinerary-Title": "11 days, one-way from Funchal to Porto-Leixoes",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/04/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 741,
+          "Port-Name": "Funchal, Madeira Island Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 2061,
+          "Port-Name": "Santa Maria Island Azores, Vila do Porto, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1294,
+          "Port-Name": "Pico Island Azores, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 629,
+          "Port-Name": "Horta, Faial Island Azores Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Corvo Island Azores, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2553,
+          "Port-Name": "Flores Island Azores, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 2552,
+          "Port-Name": "Sao Jorge Island Azores, Velas, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 628,
+          "Port-Name": "Ponta Delgada, Sao Miguel Island Azores Portugal"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/03 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608596,
+      "Departure-Date": "2025/05/03",
+      "Itinerary-Title": "11 days, one-way from Porto-Leixoes to Hamburg",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/03 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/05 08:00",
+          "Date-Time(to)": "2025/05/05 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 697,
+          "Port-Name": "Bilbao, Spain Biscay Basque Country"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/06 17:00",
+          "Date-Time(to)": "2025/05/07 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 3813,
+          "Port-Name": "Bordeaux, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 560,
+          "Port-Name": "Jersey Island, St Helier, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 561,
+          "Port-Name": "Guernsey Island, St Peter Port, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1324,
+          "Port-Name": "Sark Island, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/11 09:00",
+          "Date-Time(to)": "2025/05/11 19:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 219,
+          "Port-Name": "Honfleur, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/12 13:30",
+          "Date-Time(to)": "2025/05/12 19:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1941,
+          "Port-Name": "Ostend, Belgium"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/14 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608597,
+      "Departure-Date": "2025/05/14",
+      "Itinerary-Title": "10 days, round-trip British Isles",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/16 08:00",
+          "Date-Time(to)": "2025/05/16 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 116,
+          "Port-Name": "Leith-Edinburgh, Newhaven-Rosyth-Queensferry, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 672,
+          "Port-Name": "Kirkwall, Orkney Island Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9220,
+          "Port-Name": "Westray Island Scotland, Rapness, Orkney"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 701,
+          "Port-Name": "Lerwick, Mainland Shetland, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2484,
+          "Port-Name": "Isle of Noss, Shetland Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Mousa Island Scotland, Shetland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 2485,
+          "Port-Name": "Fair Isle, Shetland Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 309,
+          "Port-Name": "Heligoland Island Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/24 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608598,
+      "Departure-Date": "2025/05/24",
+      "Itinerary-Title": "13 days, round-trip British Isles",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/24 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/26 08:30",
+          "Date-Time(to)": "2025/05/26 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 3285,
+          "Port-Name": "Aberdeen, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 672,
+          "Port-Name": "Kirkwall, Orkney Island Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/28 08:30",
+          "Date-Time(to)": "2025/05/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 890,
+          "Port-Name": "Ullapool, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 4587,
+          "Port-Name": "Isle of Staffa, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1648,
+          "Port-Name": "Isle of Iona, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1651,
+          "Port-Name": "Rathlin Island, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/31 08:00",
+          "Date-Time(to)": "2025/05/31 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 119,
+          "Port-Name": "Liverpool, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 1123,
+          "Port-Name": "Isle of Man, Peel-Douglas, UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1050,
+          "Port-Name": "Fowey, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1359,
+          "Port-Name": "Isle of Wight, Cowes, England"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/06 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608599,
+      "Departure-Date": "2025/06/06",
+      "Itinerary-Title": "15 days, one-way from Hamburg to Longyearbyen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/08 10:00",
+          "Date-Time(to)": "2025/06/08 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 548,
+          "Port-Name": "Bergen, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/09 13:00",
+          "Date-Time(to)": "2025/06/09 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 547,
+          "Port-Name": "Geiranger, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 777,
+          "Port-Name": "Svolvaer, Austvagoya Island Lofoten Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 951,
+          "Port-Name": "Trollfjord, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 11173,
+          "Port-Name": "Senja Island, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/13 16:00",
+          "Date-Time(to)": "2025/06/14 04:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 203,
+          "Port-Name": "Honningsvag, Mageroya Island Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 952,
+          "Port-Name": "Nordkapp-North Cape, Mageroya Island Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1356,
+          "Port-Name": "Ny-Alesund, Spitsbergen, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/18",
+          "Date-Time(to)": "2025/06/19",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 14,
+          "Port-ID": 4470,
+          "Port-Name": "Amsterdam Island, Smeerenburg, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 4466,
+          "Port-Name": "Forlandet Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/21 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 897,
+          "Port-Name": "Longyearbyen, Spitsbergen, Svalbard Norway"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608600,
+      "Departure-Date": "2025/06/21",
+      "Itinerary-Title": "10 days, one-way from Longyearbyen to Tromso",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2025/06/21",
+          "Date-Time(to)": "2025/06/21 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 897,
+          "Port-Name": "Longyearbyen, Spitsbergen, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1356,
+          "Port-Name": "Ny-Alesund, Spitsbergen, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 4470,
+          "Port-Name": "Amsterdam Island, Smeerenburg, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/27",
+          "Date-Time(to)": "2025/06/28",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": 4464,
+          "Port-Name": "Nordaustlandet Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 4458,
+          "Port-Name": "Edgeoya Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/01 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 151,
+          "Port-Name": "Tromso, Norway"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608601,
+      "Departure-Date": "2025/07/01",
+      "Itinerary-Title": "10 days, one-way from Tromso to Longyearbyen",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2025/07/01",
+          "Date-Time(to)": "2025/07/01 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 151,
+          "Port-Name": "Tromso, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1356,
+          "Port-Name": "Ny-Alesund, Spitsbergen, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 4470,
+          "Port-Name": "Amsterdam Island, Smeerenburg, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/08",
+          "Date-Time(to)": "2025/07/09",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 4464,
+          "Port-Name": "Nordaustlandet Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 4458,
+          "Port-Name": "Edgeoya Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/11 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 897,
+          "Port-Name": "Longyearbyen, Spitsbergen, Svalbard Norway"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608602,
+      "Departure-Date": "2025/07/11",
+      "Itinerary-Title": "18 days, one-way from Longyearbyen to Kangerlussuaq",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2025/07/11",
+          "Date-Time(to)": "2025/07/11 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 897,
+          "Port-Name": "Longyearbyen, Spitsbergen, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 9197,
+          "Port-Name": "Svalbard Islands, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 4470,
+          "Port-Name": "Amsterdam Island, Smeerenburg, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1356,
+          "Port-Name": "Ny-Alesund, Spitsbergen, Arctic Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 4471,
+          "Port-Name": "Spitsbergen Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 4466,
+          "Port-Name": "Forlandet Island, Svalbard Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Saudarkrokur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/20 08:00",
+          "Date-Time(to)": "2025/07/20 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1568,
+          "Port-Name": "Skjoldungen Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Prince Christian Sound Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": null,
+          "Port-Name": "Arsuk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 961,
+          "Port-Name": "Nuuk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/29 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608603,
+      "Departure-Date": "2025/07/29",
+      "Itinerary-Title": "17 days, round-trip Greenland",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2025/07/29",
+          "Date-Time(to)": "2025/07/29 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2571,
+          "Port-Name": "Qaanaaq, Thule, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Siorapaluk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Smith Sound Canada, Nunavut"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/06",
+          "Date-Time(to)": "2025/08/07",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": 1663,
+          "Port-Name": "Baffin Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/08",
+          "Date-Time(to)": "2025/08/10",
+          "Days-at-Sea": 1,
+          "Port-Days": 2,
+          "Date-Count": 13,
+          "Port-ID": 1581,
+          "Port-Name": "Beechey Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/11",
+          "Date-Time(to)": "2025/08/12",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 15,
+          "Port-ID": 1578,
+          "Port-Name": "Devon Island, Dundas Harbour, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/15 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608604,
+      "Departure-Date": "2025/08/15",
+      "Itinerary-Title": "29 days, one-way from Kangerlussuaq to Seward",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": "2025/08/15 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 8651,
+          "Port-Name": "Northwest Passage, Canadian Arctic"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/22",
+          "Date-Time(to)": "2025/08/23",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 1663,
+          "Port-Name": "Baffin Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1581,
+          "Port-Name": "Beechey Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 10451,
+          "Port-Name": "Prince of Wales Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 8651,
+          "Port-Name": "Northwest Passage, Canadian Arctic"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 10451,
+          "Port-Name": "Prince of Wales Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": null,
+          "Port-Name": "Jenny Lind Island Canada, Nunavut"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 8651,
+          "Port-Name": "Northwest Passage, Canadian Arctic"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 1586,
+          "Port-Name": "Victoria Island, Cambridge Bay, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": null,
+          "Port-Name": "Smoking Hills, Cape Bathurst, NWT Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1592,
+          "Port-Name": "Herschel Island, Yukon Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 1593,
+          "Port-Name": "Nome, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": null,
+          "Port-Name": "St Paul Island Alaska, Pribilof Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 4884,
+          "Port-Name": "Dutch Harbor Unalaska, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 4610,
+          "Port-Name": "Aleutian Islands, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 28,
+          "Port-ID": null,
+          "Port-Name": "Chignik AK, Alaska"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/13 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 30,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608605,
+      "Departure-Date": "2025/09/13",
+      "Itinerary-Title": "22 days, one-way from Seward to Kanazawa",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/13 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 405,
+          "Port-Name": "Homer AK, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 404,
+          "Port-Name": "Kodiak Island, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Chignik AK, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/19",
+          "Date-Time(to)": "2025/09/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": 4610,
+          "Port-Name": "Aleutian Islands, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 4884,
+          "Port-Name": "Dutch Harbor Unalaska, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4610,
+          "Port-Name": "Aleutian Islands, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 7,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 401,
+          "Port-Name": "Kushiro City, Japan Kushiro"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 2032,
+          "Port-Name": "Muroran, Japan Iburi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 474,
+          "Port-Name": "Hakodate, Japan Oshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": null,
+          "Port-Name": "Kutsugata-Rishiri Island Japan, Hokkaido"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": null,
+          "Port-Name": "Okushiri Island Japan, Hokkaido-Hiyama"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/05 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608606,
+      "Departure-Date": "2025/10/05",
+      "Itinerary-Title": "20 days, one-way from Kanazawa to Koror-Palau",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/10/05 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/07 08:00",
+          "Date-Time(to)": "2025/10/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12225,
+          "Port-Name": "Sokcho, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/08 08:00",
+          "Date-Time(to)": "2025/10/08 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Ulleungdo Island Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/09 08:00",
+          "Date-Time(to)": "2025/10/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/10 08:00",
+          "Date-Time(to)": "2025/10/10 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Koshikijima Islands Japan, Kamikoshiki-Shimokoshiki-Nakakoshiki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/12 07:00",
+          "Date-Time(to)": "2025/10/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1800,
+          "Port-Name": "Yakushima Island Japan, Miyanoura, Satsunan-Osumi Islands Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/13 07:00",
+          "Date-Time(to)": "2025/10/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 1087,
+          "Port-Name": "Amami Oshima Island Japan, Naze, Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/14 07:00",
+          "Date-Time(to)": "2025/10/14 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "Okinoerabu-jima Island Japan, Satsunan-Amami Islands, Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Daito Islands Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Hahajima Island Japan, Ogasawara-Bonin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1618,
+          "Port-Name": "Chichijima Island Japan, Futami, Ogasawara-Bonin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 1858,
+          "Port-Name": "Yap Island Micronesia, Colonia FSM"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": null,
+          "Port-Name": "Ngulu Atoll Micronesia, Caroline Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/24 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 286,
+          "Port-Name": "Koror-Palau, Palau Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 286,
+          "Port-Name": "Koror-Palau, Palau Islands"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608607,
+      "Departure-Date": "2025/10/25",
+      "Itinerary-Title": "19 days, one-way from Koror-Palau to Lautoka Viti Levu",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/10/25",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 286,
+          "Port-Name": "Koror-Palau, Palau Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/26",
+          "Date-Time(to)": "2025/10/26 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 286,
+          "Port-Name": "Koror-Palau, Palau Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 2884,
+          "Port-Name": "Vanimo PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1832,
+          "Port-Name": "Madang PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Tambiu Island PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Tufi PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9158,
+          "Port-Name": "Trobriand Islands PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1099,
+          "Port-Name": "Kitava Island PNG, Trobriand, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1836,
+          "Port-Name": "Fergusson Island PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Louisiade Islands PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 1826,
+          "Port-Name": "Honiara, Guadalcanal, Solomon Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1827,
+          "Port-Name": "Florida Islands, Solomon Islands, Roderick Bay"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 9159,
+          "Port-Name": "Solomon Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 9159,
+          "Port-Name": "Solomon Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/13 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 601,
+          "Port-Name": "Lautoka, Fiji"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608608,
+      "Departure-Date": "2025/11/13",
+      "Itinerary-Title": "15 days, one-way from Lautoka Viti Levu to Papeete",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/13 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 601,
+          "Port-Name": "Lautoka, Fiji"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": null,
+          "Port-Name": "Leleuvia Island Fiji"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1285,
+          "Port-Name": "Taveuni Island Fiji"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 611,
+          "Port-Name": "Nukualofa, Tongatapu Island Tonga"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Haapai Islands Tonga, Pangai"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1302,
+          "Port-Name": "Vavau Islands Tonga, Neiafu"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 422,
+          "Port-Name": "Rarotonga Island, Avarua, Cook Islands NZ"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 421,
+          "Port-Name": "Aitutaki Island, Cook Islands NZ"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 107,
+          "Port-Name": "Bora Bora Island, Vaitape, Society Islands French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Motu Mahana Island French Polynesia, PG Cruises private island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 689,
+          "Port-Name": "Raiatea Island, Uturoa, French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 418,
+          "Port-Name": "Moorea Island, Society Islands French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/27 19:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 109,
+          "Port-Name": "Papeete, Tahiti Island French Polynesia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 109,
+          "Port-Name": "Papeete, Tahiti Island French Polynesia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608609,
+      "Departure-Date": "2025/11/28",
+      "Itinerary-Title": "23 days, one-way from Papeete to Puerto Montt",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/28",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 109,
+          "Port-Name": "Papeete, Tahiti Island French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29",
+          "Date-Time(to)": "2025/11/29 06:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 109,
+          "Port-Name": "Papeete, Tahiti Island French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/30",
+          "Date-Time(to)": "2025/12/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 3,
+          "Date-Count": 6,
+          "Port-ID": 11322,
+          "Port-Name": "Austral Islands, French Polynesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 2757,
+          "Port-Name": "Gambier Islands, French Polynesia, Rikitea-Mangareva"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08",
+          "Date-Time(to)": "2025/12/09",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 424,
+          "Port-Name": "Pitcairn Island, Adamstown, UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": "2025/12/13 13:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 16,
+          "Port-ID": 425,
+          "Port-Name": "Easter Island Chile, Hanga Roa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 5,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 426,
+          "Port-Name": "Robinson Crusoe Island, Chile"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/20 19:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 428,
+          "Port-Name": "Puerto Montt, Chile"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 428,
+          "Port-Name": "Puerto Montt, Chile"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608610,
+      "Departure-Date": "2025/12/21",
+      "Itinerary-Title": "22 days, one-way from Puerto Montt to Ushuaia",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 428,
+          "Port-Name": "Puerto Montt, Chile"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 430,
+          "Port-Name": "Chilean Fjords, Patagonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 11166,
+          "Port-Name": "Puerto Eden, Wellington Island Chile"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 430,
+          "Port-Name": "Chilean Fjords, Patagonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 500,
+          "Port-Name": "Strait of Magellan, Chile"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27",
+          "Date-Time(to)": "2025/12/28",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": 432,
+          "Port-Name": "Port Stanley, East Falkland Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/31",
+          "Date-Time(to)": "2026/01/01",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 971,
+          "Port-Name": "South Georgia Island, Grytviken, South Sandwich Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/03",
+          "Date-Time(to)": "2026/01/04",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 15,
+          "Port-ID": 1924,
+          "Port-Name": "South Orkney Islands Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05",
+          "Date-Time(to)": "2026/01/06",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 17,
+          "Port-ID": 9085,
+          "Port-Name": "South Shetland Islands, Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/08",
+          "Date-Time(to)": "2026/01/09",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 20,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/10",
+          "Date-Time(to)": "2026/01/11",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 22,
+          "Port-ID": 517,
+          "Port-Name": "Drake Passage, Antarctica"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/12 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 102,
+          "Port-Name": "Ushuaia, Argentina"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608611,
+      "Departure-Date": "2026/01/12",
+      "Itinerary-Title": "22 days, round-trip Antarctica",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 102,
+          "Port-Name": "Ushuaia, Argentina"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/14",
+          "Date-Time(to)": "2026/01/15",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 432,
+          "Port-Name": "Port Stanley, East Falkland Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18",
+          "Date-Time(to)": "2026/01/20",
+          "Days-at-Sea": 3,
+          "Port-Days": 2,
+          "Date-Count": 9,
+          "Port-ID": 971,
+          "Port-Name": "South Georgia Island, Grytviken, South Sandwich Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/22",
+          "Date-Time(to)": "2026/01/23",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 1924,
+          "Port-Name": "South Orkney Islands Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/24",
+          "Date-Time(to)": "2026/01/25",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 14,
+          "Port-ID": 9085,
+          "Port-Name": "South Shetland Islands, Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/29",
+          "Date-Time(to)": "2026/01/31",
+          "Days-at-Sea": 4,
+          "Port-Days": 2,
+          "Date-Count": 20,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/01",
+          "Date-Time(to)": "2026/02/02",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 22,
+          "Port-ID": 517,
+          "Port-Name": "Drake Passage, Antarctica"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/03 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 102,
+          "Port-Name": "Ushuaia, Argentina"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608612,
+      "Departure-Date": "2026/02/03",
+      "Itinerary-Title": "20 days, one-way from Ushuaia to Buenos Aires",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/02/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 102,
+          "Port-Name": "Ushuaia, Argentina"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 502,
+          "Port-Name": "Cape Horn, Chile Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 517,
+          "Port-Name": "Drake Passage, Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/06",
+          "Date-Time(to)": "2026/02/07",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 9085,
+          "Port-Name": "South Shetland Islands, Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/08",
+          "Date-Time(to)": "2026/02/09",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 7,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/10",
+          "Date-Time(to)": "2026/02/11",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 1924,
+          "Port-Name": "South Orkney Islands Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/13",
+          "Date-Time(to)": "2026/02/14",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 971,
+          "Port-Name": "South Georgia Island, Grytviken, South Sandwich Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/17",
+          "Date-Time(to)": "2026/02/18",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 16,
+          "Port-ID": 432,
+          "Port-Name": "Port Stanley, East Falkland Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/22 19:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 103,
+          "Port-Name": "Buenos Aires, Argentina"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 103,
+          "Port-Name": "Buenos Aires, Argentina"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608613,
+      "Departure-Date": "2026/02/23",
+      "Itinerary-Title": "16 days, one-way from Buenos Aires to Belem",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/02/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 103,
+          "Port-Name": "Buenos Aires, Argentina"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/24 07:00",
+          "Date-Time(to)": "2026/02/24 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 434,
+          "Port-Name": "Montevideo, Uruguay"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/27 08:00",
+          "Date-Time(to)": "2026/02/27 14:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 11622,
+          "Port-Name": "Sao Francisco do Sul, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/28 13:30",
+          "Date-Time(to)": "2026/02/28 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 980,
+          "Port-Name": "Paraty, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/01 07:00",
+          "Date-Time(to)": "2026/03/01 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 105,
+          "Port-Name": "Rio de Janeiro, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/02 07:00",
+          "Date-Time(to)": "2026/03/02 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 104,
+          "Port-Name": "Buzios, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/04 07:00",
+          "Date-Time(to)": "2026/03/04 14:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "Porto Seguro, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/05 07:00",
+          "Date-Time(to)": "2026/03/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 445,
+          "Port-Name": "Salvador de Bahia, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/07 13:00",
+          "Date-Time(to)": "2026/03/07 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 446,
+          "Port-Name": "Natal, Brazil"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/03/11 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 1181,
+          "Port-Name": "Belem, Brazil"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608614,
+      "Departure-Date": "2026/03/11",
+      "Itinerary-Title": "18 days, one-way from Belem to Iquitos",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/03/11 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1181,
+          "Port-Name": "Belem, Brazil"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": null,
+          "Port-Name": "Breves, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Guajara, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 801,
+          "Port-Name": "Santarem, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 804,
+          "Port-Name": "Parintins, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/19",
+          "Date-Time(to)": "2026/03/20",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": 803,
+          "Port-Name": "Manaus, Brazil Amazon"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/03/29 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 9,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 4321,
+          "Port-Name": "Iquitos, Peru Amazon"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608615,
+      "Departure-Date": "2026/03/29",
+      "Itinerary-Title": "18 days, one-way from Iquitos to Belem",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/03/29",
+          "Date-Time(to)": "2026/03/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4321,
+          "Port-Name": "Iquitos, Peru Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": null,
+          "Port-Name": "Pevas, Peru Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/03/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Leticia Colombia, Amazonas"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/08",
+          "Date-Time(to)": "2026/04/09",
+          "Days-at-Sea": 8,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 803,
+          "Port-Name": "Manaus, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 804,
+          "Port-Name": "Parintins, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 801,
+          "Port-Name": "Santarem, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": null,
+          "Port-Name": "Guajara, Brazil Amazon"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": null,
+          "Port-Name": "Breves, Brazil Amazon"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/04/16 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1181,
+          "Port-Name": "Belem, Brazil"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608616,
+      "Departure-Date": "2026/04/16",
+      "Itinerary-Title": "11 days, one-way from Belem to Porto-Leixoes",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/04/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1181,
+          "Port-Name": "Belem, Brazil"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/04/27 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 11,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608617,
+      "Departure-Date": "2026/04/27",
+      "Itinerary-Title": "12 days, one-way from Porto-Leixoes to Hamburg",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/04/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/28 13:00",
+          "Date-Time(to)": "2026/04/28 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 564,
+          "Port-Name": "La Coruna, Spain Galicia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/30 08:00",
+          "Date-Time(to)": "2026/04/30 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1009,
+          "Port-Name": "Brest, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/01 07:00",
+          "Date-Time(to)": "2026/05/01 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9338,
+          "Port-Name": "Roscoff, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 560,
+          "Port-Name": "Jersey Island, St Helier, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1324,
+          "Port-Name": "Sark Island, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 11687,
+          "Port-Name": "Herm Island, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 3452,
+          "Port-Name": "Alderney Island, St Anne, Channel Islands UK"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/06 07:00",
+          "Date-Time(to)": "2026/05/06 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4515,
+          "Port-Name": "Poole, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/08 11:00",
+          "Date-Time(to)": "2026/05/08 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 309,
+          "Port-Name": "Heligoland Island Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/05/09 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608618,
+      "Departure-Date": "2026/05/09",
+      "Itinerary-Title": "10 days, round-trip Baltic Sea",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/05/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 901,
+          "Port-Name": "Kiel Canal, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/11 08:00",
+          "Date-Time(to)": "2026/05/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 331,
+          "Port-Name": "Binz-Rugen, Rugen Island Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 268,
+          "Port-Name": "Bornholm Island Denmark, Ronne"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/13 07:00",
+          "Date-Time(to)": "2026/05/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 5683,
+          "Port-Name": "Marstrand, Marstrandson-Koon Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 365,
+          "Port-Name": "Lysekil, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Fjallbacka, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Norwegian fjords cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/17 07:00",
+          "Date-Time(to)": "2026/05/17 17:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/05/19 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608619,
+      "Departure-Date": "2026/05/19",
+      "Itinerary-Title": "7 days, round-trip Western Europe",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/05/19 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/21 09:00",
+          "Date-Time(to)": "2026/05/21 23:59",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 948,
+          "Port-Name": "Antwerp, Belgium"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/23",
+          "Date-Time(to)": "2026/05/23 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 11075,
+          "Port-Name": "London-Greenwich, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/05/25 09:00",
+          "Date-Time(to)": "2026/05/25 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 309,
+          "Port-Name": "Heligoland Island Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/05/26 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608620,
+      "Departure-Date": "2026/06/05",
+      "Itinerary-Title": "8 days, round-trip German Bight",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/06/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/07 07:00",
+          "Date-Time(to)": "2026/06/08 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 54,
+          "Port-Name": "Rotterdam, Netherlands South Holland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/08 10:00",
+          "Date-Time(to)": "2026/06/08 20:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 9687,
+          "Port-Name": "The Hague, Den Haag, Netherlands South Holland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/09 09:00",
+          "Date-Time(to)": "2026/06/09 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 50,
+          "Port-Name": "Zeebrugge, Bruges, Belgium"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/10 09:00",
+          "Date-Time(to)": "2026/06/10 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 11856,
+          "Port-Name": "Oudeschild-Texel Island, Netherlands North Holland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/11 11:30",
+          "Date-Time(to)": "2026/06/11 21:15",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 4876,
+          "Port-Name": "List auf Sylt, Sylt Island Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/12 08:00",
+          "Date-Time(to)": "2026/06/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 309,
+          "Port-Name": "Heligoland Island Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/06/13 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608621,
+      "Departure-Date": "2026/06/13",
+      "Itinerary-Title": "10 days, round-trip British Isles",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/06/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/15 08:00",
+          "Date-Time(to)": "2026/06/15 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 3285,
+          "Port-Name": "Aberdeen, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 672,
+          "Port-Name": "Kirkwall, Orkney Island Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9220,
+          "Port-Name": "Westray Island Scotland, Rapness, Orkney"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 701,
+          "Port-Name": "Lerwick, Mainland Shetland, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Mousa Island Scotland, Shetland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 2484,
+          "Port-Name": "Isle of Noss, Shetland Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 309,
+          "Port-Name": "Heligoland Island Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/06/23 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608622,
+      "Departure-Date": "2026/06/23",
+      "Itinerary-Title": "19 days, one-way from Hamburg to Kangerlussuaq",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/06/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 672,
+          "Port-Name": "Kirkwall, Orkney Island Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 673,
+          "Port-Name": "Isle of Skye, Uig-Dunvegan-Armadale-Portree, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 11179,
+          "Port-Name": "Bakkargerdi, Iceland, Borgarfjordur Eystri"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/06/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1049,
+          "Port-Name": "Djupivogur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 546,
+          "Port-Name": "Heimaey Island, Iceland, Westman Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/02 08:00",
+          "Date-Time(to)": "2026/07/02 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1568,
+          "Port-Name": "Skjoldungen Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Prince Christian Sound Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 11635,
+          "Port-Name": "Hvalsey, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 895,
+          "Port-Name": "Qaqortoq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 961,
+          "Port-Name": "Nuuk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": null,
+          "Port-Name": "fjord cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/07/12 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608623,
+      "Departure-Date": "2026/07/12",
+      "Itinerary-Title": "12 days, round-trip Greenland",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/07/12",
+          "Date-Time(to)": "2026/07/12 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "fjord cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Kangersuatsiaq Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2571,
+          "Port-Name": "Qaanaaq, Thule, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Siorapaluk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1659,
+          "Port-Name": "Qeqertarsuaq, Disko Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/07/24 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608624,
+      "Departure-Date": "2026/07/24",
+      "Itinerary-Title": "12 days, round-trip Greenland",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/07/24",
+          "Date-Time(to)": "2026/07/24 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "fjord cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Salliaruseq Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Siorapaluk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2571,
+          "Port-Name": "Qaanaaq, Thule, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/07/30",
+          "Date-Time(to)": "2026/07/31",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1659,
+          "Port-Name": "Qeqertarsuaq, Disko Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/05 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608625,
+      "Departure-Date": "2026/08/05",
+      "Itinerary-Title": "17 days, round-trip Greenland",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/08/05",
+          "Date-Time(to)": "2026/08/05 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1663,
+          "Port-Name": "Baffin Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1578,
+          "Port-Name": "Devon Island, Dundas Harbour, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/12",
+          "Date-Time(to)": "2026/08/13",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 2578,
+          "Port-Name": "Ellesmere Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1663,
+          "Port-Name": "Baffin Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 2571,
+          "Port-Name": "Qaanaaq, Thule, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Etah, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/22 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608626,
+      "Departure-Date": "2026/08/22",
+      "Itinerary-Title": "18 days, round-trip CanadaNew England",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/08/22",
+          "Date-Time(to)": "2026/08/22 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/25",
+          "Date-Time(to)": "2026/08/26",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 1663,
+          "Port-Name": "Baffin Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1581,
+          "Port-Name": "Beechey Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1578,
+          "Port-Name": "Devon Island, Dundas Harbour, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/31",
+          "Date-Time(to)": "2026/09/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 3,
+          "Date-Count": 13,
+          "Port-ID": 2578,
+          "Port-Name": "Ellesmere Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 3670,
+          "Port-Name": "Axel Heiberg Island, Nunavut Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1575,
+          "Port-Name": "Uummannaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/09 06:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 3608627,
+      "Departure-Date": "2026/09/09",
+      "Itinerary-Title": "15 days, one-way from Kangerlussuaq to Reykjavik",
+      "Schedule": [
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": null,
+          "Port-Name": "flight"
+        },
+        {
+          "Start-End": 1,
+          "Date-Time(from)": "2026/09/09",
+          "Date-Time(to)": "2026/09/09 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1574,
+          "Port-Name": "Kangerlussuaq, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 960,
+          "Port-Name": "Sisimiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1573,
+          "Port-Name": "Ilulissat, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Arsuk, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Prince Christian Sound Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1568,
+          "Port-Name": "Skjoldungen Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/18",
+          "Date-Time(to)": "2026/09/19",
+          "Days-at-Sea": 0,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "fjord cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Ella Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": null,
+          "Port-Name": "fjord cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": null,
+          "Port-Name": "Clavering Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Sabine Island Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1567,
+          "Port-Name": "Ittoqqortoormiit, Scoresbysund, Greenland"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/24 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        }
+      ]
+    }
+  ]
+}

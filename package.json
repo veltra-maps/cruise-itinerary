@@ -1,0 +1,18 @@
+{
+  "name": "cruise-itinerary",
+  "version": "1.0.0",
+  "description": "クルーズ旅程地図表示（Mapbox + ship.json）",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.15.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "Wataru",
+  "license": "MIT",
+  "keywords": []
+}

@@ -1,0 +1,3090 @@
+{
+  "Cruise-Ship-Code": 1278,
+  "Cruise-Ship": "Scenic Eclipse 2",
+  "Itineraries": [
+    {
+      "Itinerary-No": 4037937,
+      "Departure-Date": "2025/04/18",
+      "Itinerary-Title": "16 days, one-way from Keelung to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/04/18",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Kerama Islands Japan, Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1087,
+          "Port-Name": "Amami Oshima Island Japan, Naze, Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11070,
+          "Port-Name": "Kitakyushu, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 475,
+          "Port-Name": "Hiroshima City, Japan Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1336,
+          "Port-Name": "Itsukushima Island Japan, Miyajima, Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 11153,
+          "Port-Name": "Matsuyama, Japan Ehime"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 581,
+          "Port-Name": "Kochi City, Japan Kochi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/04/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 11535,
+          "Port-Name": "Shingu, Japan Wakayama"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 4188,
+          "Port-Name": "Toba-Mie, Japan Mie"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 538,
+          "Port-Name": "Shimizu, Japan Shizuoka"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037938,
+      "Departure-Date": "2025/05/04",
+      "Itinerary-Title": "16 days, round-trip 16 Night Circumnavigation of Japan Cultures and Traditions Cruise",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/04",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11623,
+          "Port-Name": "Oarai, Japan Ibaraki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 11039,
+          "Port-Name": "Sendai, Japan Miyagi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 474,
+          "Port-Name": "Hakodate, Japan Oshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 2031,
+          "Port-Name": "Akita City, Japan Akita"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 11038,
+          "Port-Name": "Niigata City, Japan Niigata"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2877,
+          "Port-Name": "Sadoshima Island Japan, Ryotsu, Niigata"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 351,
+          "Port-Name": "Sakaiminato-Matsue, Japan Tottori"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 10950,
+          "Port-Name": "Ube-Yamaguchi City, Japan Yamaguchi, Nagato-Hagi-Hofu"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 475,
+          "Port-Name": "Hiroshima City, Japan Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1336,
+          "Port-Name": "Itsukushima Island Japan, Miyajima, Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 581,
+          "Port-Name": "Kochi City, Japan Kochi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 4188,
+          "Port-Name": "Toba-Mie, Japan Mie"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 538,
+          "Port-Name": "Shimizu, Japan Shizuoka"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037939,
+      "Departure-Date": "2025/05/20",
+      "Itinerary-Title": "16 days, one-way from Tokyo to Kobe-Osaka",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 538,
+          "Port-Name": "Shimizu, Japan Shizuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 4188,
+          "Port-Name": "Toba-Mie, Japan Mie"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 2665,
+          "Port-Name": "Okayama City, Japan Okayama"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/25",
+          "Date-Time(to)": "2025/05/26",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 7,
+          "Port-ID": 972,
+          "Port-Name": "Takamatsu, Shikoku, Japan Kagawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 475,
+          "Port-Name": "Hiroshima City, Japan Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1336,
+          "Port-Name": "Itsukushima Island Japan, Miyajima, Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 12225,
+          "Port-Name": "Sokcho, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 2878,
+          "Port-Name": "Pohang, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/01",
+          "Date-Time(to)": "2025/06/02",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 14,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 581,
+          "Port-Name": "Kochi City, Japan Kochi"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037940,
+      "Departure-Date": "2025/06/07",
+      "Itinerary-Title": "13 days, one-way from Kobe-Osaka to Keelung",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/07",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 2665,
+          "Port-Name": "Okayama City, Japan Okayama"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 972,
+          "Port-Name": "Takamatsu, Shikoku, Japan Kagawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Imabari-Ehime, Japan Ehime"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 475,
+          "Port-Name": "Hiroshima City, Japan Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1336,
+          "Port-Name": "Itsukushima Island Japan, Miyajima, Hiroshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 11153,
+          "Port-Name": "Matsuyama, Japan Ehime"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1335,
+          "Port-Name": "Uwajima, Japan Ehime"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 1087,
+          "Port-Name": "Amami Oshima Island Japan, Naze, Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "Kerama Islands Japan, Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 772,
+          "Port-Name": "Hualien, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037941,
+      "Departure-Date": "2025/06/20",
+      "Itinerary-Title": "16 days, one-way from Keelung to Benoa",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 772,
+          "Port-Name": "Hualien, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/23",
+          "Date-Time(to)": "2025/06/24",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 482,
+          "Port-Name": "Manila, Luzon Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "El Nido, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 729,
+          "Port-Name": "Sandakan, Borneo Malaysia Sabah"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Derawan Islands Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 530,
+          "Port-Name": "Makassar, Ujung Pandang, Sulawesi Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Palopo, Indonesia South Sulawesi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "Taka Bonerate Islands Indonesia, South Sulawesi"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 526,
+          "Port-Name": "Pulau Komodo Island, East Nusa Tenggara Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1339,
+          "Port-Name": "Pulau Sumbawa Island Indonesia, Sumbawa Besar, West Nusa Tenggara"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 16,
+          "Port-Name": "Benoa, Bali Indonesia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037942,
+      "Departure-Date": "2025/07/06",
+      "Itinerary-Title": "15 days, one-way from Benoa to Darwin",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/06",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 16,
+          "Port-Name": "Benoa, Bali Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 9060,
+          "Port-Name": "Pulau Moyo Island Indonesia, Mojo, West Nusa Tenggara"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": null,
+          "Port-Name": "Pulau Satonda Island Indonesia, West Nusa Tenggara"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 526,
+          "Port-Name": "Pulau Komodo Island, East Nusa Tenggara Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1148,
+          "Port-Name": "Pulau Flores Island Indonesia, Larantuka-Ende-Maumere, East Nusa Tenggara"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1862,
+          "Port-Name": "Pulau Alor Island Indonesia, Kalabahi-Takpala, East Nusa Tenggara"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Pulau Komba Island Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Banda Islands Indonesia, Bandanaira-Neira, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Arguni Island Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Raja Ampat Islands Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "Pulau Wayag Island Indonesia, Raja Ampat"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1812,
+          "Port-Name": "Pulau Misool Island Indonesia, Raja Ampat"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Kai Islands Indonesia, Tual, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "Pulau Yamdena Island Indonesia, Tanimbar, Maluku"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037943,
+      "Departure-Date": "2025/07/21",
+      "Itinerary-Title": "10 days, one-way from Darwin to Broome WA",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/21",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/28",
+          "Date-Time(to)": "2025/07/29",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037944,
+      "Departure-Date": "2025/07/31",
+      "Itinerary-Title": "10 days, one-way from Broome WA to Darwin",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/31",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/02",
+          "Date-Time(to)": "2025/08/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037946,
+      "Departure-Date": "2025/08/10",
+      "Itinerary-Title": "10 days, one-way from Darwin to Broome WA",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/10",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/17",
+          "Date-Time(to)": "2025/08/18",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037945,
+      "Departure-Date": "2025/08/10",
+      "Itinerary-Title": "24 days, one-way from Darwin to Fremantle",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/10",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/17",
+          "Date-Time(to)": "2025/08/18",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/20",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "Dampier Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": null,
+          "Port-Name": "Montebello Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/25",
+          "Date-Time(to)": "2025/08/26",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 17,
+          "Port-ID": 636,
+          "Port-Name": "Exmouth WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 12011,
+          "Port-Name": "Batemans Bay NSW, NSW Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": null,
+          "Port-Name": "Dirk Hartog Island Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": null,
+          "Port-Name": "Houtman Abrolhos Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 616,
+          "Port-Name": "Geraldton, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": null,
+          "Port-Name": "Jurien Bay WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 5490,
+          "Port-Name": "Busselton WA, Margaret River, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 18,
+          "Port-Name": "Fremantle, Perth, Western Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037947,
+      "Departure-Date": "2025/08/20",
+      "Itinerary-Title": "14 days, one-way from Broome WA to Fremantle",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "Dampier Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Montebello Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/25",
+          "Date-Time(to)": "2025/08/26",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 7,
+          "Port-ID": 636,
+          "Port-Name": "Exmouth WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 12011,
+          "Port-Name": "Batemans Bay NSW, NSW Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "Dirk Hartog Island Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Houtman Abrolhos Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/31",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 616,
+          "Port-Name": "Geraldton, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Jurien Bay WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 5490,
+          "Port-Name": "Busselton WA, Margaret River, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 18,
+          "Port-Name": "Fremantle, Perth, Western Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037949,
+      "Departure-Date": "2025/09/03",
+      "Itinerary-Title": "14 days, one-way from Fremantle to Broome WA",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 18,
+          "Port-Name": "Fremantle, Perth, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 5490,
+          "Port-Name": "Busselton WA, Margaret River, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Jurien Bay WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 616,
+          "Port-Name": "Geraldton, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Houtman Abrolhos Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Dirk Hartog Island Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 12011,
+          "Port-Name": "Batemans Bay NSW, NSW Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/11",
+          "Date-Time(to)": "2025/09/12",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": 636,
+          "Port-Name": "Exmouth WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Montebello Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": null,
+          "Port-Name": "Dampier Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037948,
+      "Departure-Date": "2025/09/03",
+      "Itinerary-Title": "24 days, one-way from Fremantle to Darwin",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 18,
+          "Port-Name": "Fremantle, Perth, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 5490,
+          "Port-Name": "Busselton WA, Margaret River, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Jurien Bay WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 616,
+          "Port-Name": "Geraldton, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Houtman Abrolhos Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Dirk Hartog Island Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 12011,
+          "Port-Name": "Batemans Bay NSW, NSW Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/11",
+          "Date-Time(to)": "2025/09/12",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": 636,
+          "Port-Name": "Exmouth WA, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Montebello Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": null,
+          "Port-Name": "Dampier Islands Australia, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/16",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/19",
+          "Date-Time(to)": "2025/09/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 18,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037950,
+      "Departure-Date": "2025/09/17",
+      "Itinerary-Title": "10 days, one-way from Broome WA to Darwin",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/17",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1095,
+          "Port-Name": "Broome WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 9099,
+          "Port-Name": "Lacepede Islands, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/19",
+          "Date-Time(to)": "2025/09/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 9101,
+          "Port-Name": "Buccaneer Archipelago, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9103,
+          "Port-Name": "Yawajaba-Montgomery Island, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3478,
+          "Port-Name": "Bigge Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Ashmore Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Jar Island WA, Kimberley, Western Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1094,
+          "Port-Name": "Kimberley Coast, Western Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037951,
+      "Departure-Date": "2025/09/27",
+      "Itinerary-Title": "14 days, round-trip 14 Night Secrets of Indonesia Spice Islands and Raja Ampat Cruise",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/27",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Banda Islands Indonesia, Bandanaira-Neira, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1393,
+          "Port-Name": "Pulau Ambon Island Indonesia, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1808,
+          "Port-Name": "Pulau Ternate Island Indonesia, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/02",
+          "Date-Time(to)": "2025/10/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Raja Ampat Islands Indonesia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Pulau Waigeo Island Indonesia, Waisai, Raja Ampat"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": null,
+          "Port-Name": "Pulau Wayag Island Indonesia, Raja Ampat"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/06",
+          "Date-Time(to)": "2025/10/07",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 1812,
+          "Port-Name": "Pulau Misool Island Indonesia, Raja Ampat"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": null,
+          "Port-Name": "Kai Islands Indonesia, Tual, Maluku"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": null,
+          "Port-Name": "Pulau Yamdena Island Indonesia, Tanimbar, Maluku"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037952,
+      "Departure-Date": "2025/10/11",
+      "Itinerary-Title": "14 days, one-way from Darwin to Cairns",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/10/11",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 159,
+          "Port-Name": "Darwin, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/12",
+          "Date-Time(to)": "2025/10/13",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 3593,
+          "Port-Name": "Tiwi Islands Australia, Melville-Bathurst, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3538,
+          "Port-Name": "Elcho Island, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 3562,
+          "Port-Name": "Nhulunbuy, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": null,
+          "Port-Name": "Wessel Islands Australia, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/15",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3562,
+          "Port-Name": "Nhulunbuy, NT Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 779,
+          "Port-Name": "Thursday Island, Queensland Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/19",
+          "Date-Time(to)": "2025/10/20",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": 646,
+          "Port-Name": "Great Barrier Reef, Queensland Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": null,
+          "Port-Name": "Coral Sea Islands Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 780,
+          "Port-Name": "Cooktown QLD, Queensland Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 599,
+          "Port-Name": "Port Douglas, Queensland Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/10/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1418,
+          "Port-Name": "Willis Island, Coral Sea, Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/10/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 575,
+          "Port-Name": "Cairns, Queensland Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037953,
+      "Departure-Date": "2025/11/09",
+      "Itinerary-Title": "12 days, one-way from Cairns to Lautoka",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/09",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 575,
+          "Port-Name": "Cairns, Queensland Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": null,
+          "Port-Name": "Louisiade Islands PNG, Papua New Guinea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/13",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1826,
+          "Port-Name": "Honiara, Guadalcanal, Solomon Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/14",
+          "Date-Time(to)": "2025/11/16",
+          "Days-at-Sea": 1,
+          "Port-Days": 2,
+          "Date-Count": 8,
+          "Port-ID": 9159,
+          "Port-Name": "Solomon Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 1842,
+          "Port-Name": "Champagne Bay, Espiritu Santo, Vanuatu"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1843,
+          "Port-Name": "Ambrym Island, Vanuatu"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/19",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 1854,
+          "Port-Name": "Tanna Island, Lenakel, Vanuatu"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 601,
+          "Port-Name": "Lautoka, Fiji"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037954,
+      "Departure-Date": "2025/11/21",
+      "Itinerary-Title": "12 days, one-way from Lautoka to Auckland",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/21",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 601,
+          "Port-Name": "Lautoka, Fiji"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/23",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1854,
+          "Port-Name": "Tanna Island, Lenakel, Vanuatu"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 748,
+          "Port-Name": "Lifou Island, New Caledonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1354,
+          "Port-Name": "Isle of Pines, New Caledonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Kouare Island New Caledonia, Ile Kouare"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1237,
+          "Port-Name": "Norfolk Island, Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 612,
+          "Port-Name": "Bay of Islands, Russell, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 5496,
+          "Port-Name": "Great Barrier Island NZ, Tryphena"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 567,
+          "Port-Name": "Tauranga, Rotorua, New Zealand"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 20,
+          "Port-Name": "Auckland, New Zealand"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037955,
+      "Departure-Date": "2025/12/03",
+      "Itinerary-Title": "11 days, one-way from Auckland to Queenstown NZ",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/03",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 20,
+          "Port-Name": "Auckland, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/04",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 567,
+          "Port-Name": "Tauranga, Rotorua, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/05",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 752,
+          "Port-Name": "Gisborne, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 568,
+          "Port-Name": "Napier, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 23,
+          "Port-Name": "Wellington, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2046,
+          "Port-Name": "Kaiteriteri NZ, New Zealand, Abel Tasman NP"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2047,
+          "Port-Name": "Nelson NZ, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 569,
+          "Port-Name": "Picton, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1157,
+          "Port-Name": "Kaikoura, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/11",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 21,
+          "Port-Name": "Dunedin, Port Chalmers, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1474,
+          "Port-Name": "Oban NZ, Stewart Island-Rakiura, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/13",
+          "Date-Time(to)": "2025/12/14",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 751,
+          "Port-Name": "Fiordland National Park, New Zealand"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 11140,
+          "Port-Name": "Queenstown NZ, New Zealand"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037956,
+      "Departure-Date": "2025/12/14",
+      "Itinerary-Title": "23 days, one-way from Queenstown NZ to Hobart",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/14",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 11140,
+          "Port-Name": "Queenstown NZ, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 751,
+          "Port-Name": "Fiordland National Park, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/19",
+          "Date-Time(to)": "2025/12/20",
+          "Days-at-Sea": 5,
+          "Port-Days": 1,
+          "Date-Count": 7,
+          "Port-ID": null,
+          "Port-Name": "Balleny Islands Antarctica, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21",
+          "Date-Time(to)": "2025/12/22",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22",
+          "Date-Time(to)": "2025/12/23",
+          "Days-at-Sea": 0,
+          "Port-Days": 1,
+          "Date-Count": 10,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 3166,
+          "Port-Name": "Ross Island Antarctica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/25",
+          "Date-Time(to)": "2025/12/26",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 13,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": null,
+          "Port-Name": "coastal cruising"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/28",
+          "Date-Time(to)": "2025/12/30",
+          "Days-at-Sea": 1,
+          "Port-Days": 2,
+          "Date-Count": 17,
+          "Port-ID": 982,
+          "Port-Name": "Antarctic Peninsula"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 1851,
+          "Port-Name": "Macquarie Island Tasmania, Australia"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/06",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 17,
+          "Port-Name": "Hobart, Tasmania Australia"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037957,
+      "Departure-Date": "2026/01/06",
+      "Itinerary-Title": "23 days, one-way from Hobart to Dunedin",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/06",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 17,
+          "Port-Name": "Hobart, Tasmania Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1851,
+          "Port-Name": "Macquarie Island Tasmania, Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/12",
+          "Date-Time(to)": "2026/01/13",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Balleny Islands Antarctica, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/14",
+          "Date-Time(to)": "2026/01/21",
+          "Days-at-Sea": 1,
+          "Port-Days": 7,
+          "Date-Count": 16,
+          "Port-ID": 3166,
+          "Port-Name": "Ross Island Antarctica"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 8,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 21,
+          "Port-Name": "Dunedin, Port Chalmers, New Zealand"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4037958,
+      "Departure-Date": "2026/01/29",
+      "Itinerary-Title": "23 days, round-trip 23 Night Antarcticas Ross Sea Majestic Ice and Wildlife Cruise",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/29",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 21,
+          "Port-Name": "Dunedin, Port Chalmers, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/01",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1851,
+          "Port-Name": "Macquarie Island Tasmania, Australia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/04",
+          "Date-Time(to)": "2026/02/05",
+          "Days-at-Sea": 3,
+          "Port-Days": 1,
+          "Date-Count": 8,
+          "Port-ID": null,
+          "Port-Name": "Balleny Islands Antarctica, New Zealand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/06",
+          "Date-Time(to)": "2026/02/13",
+          "Days-at-Sea": 1,
+          "Port-Days": 7,
+          "Date-Count": 16,
+          "Port-ID": 3166,
+          "Port-Name": "Ross Island Antarctica"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 8,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 21,
+          "Port-Name": "Dunedin, Port Chalmers, New Zealand"
+        }
+      ]
+    }
+  ]
+}

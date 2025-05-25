@@ -1,0 +1,4177 @@
+{
+  "Cruise-Ship-Code": 667,
+  "Cruise-Ship": "Costa Serena",
+  "Itineraries": [
+    {
+      "Itinerary-No": 4190246,
+      "Departure-Date": "2025/05/08",
+      "Itinerary-Title": "5 days, round-trip Asia from Busan From Busan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/05/08 15:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/10 08:00",
+          "Date-Time(to)": "2025/05/10 15:30",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/05/11 13:30",
+          "Date-Time(to)": "2025/05/11 22:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/05/13 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223424,
+      "Departure-Date": "2025/06/01",
+      "Itinerary-Title": "1 day, one-way from Busan to Kanazawa",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/01 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/02 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223423,
+      "Departure-Date": "2025/06/01",
+      "Itinerary-Title": "3 days, round-trip Asia from Busan From Busan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/01 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/02 14:00",
+          "Date-Time(to)": "2025/06/02 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/04 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223425,
+      "Departure-Date": "2025/06/09",
+      "Itinerary-Title": "5 days, one-way from Kanazawa to Hakata-Fukuoka City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/09 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 306,
+          "Port-Name": "Kanazawa, Japan Ishikawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/10 19:00",
+          "Date-Time(to)": "2025/06/10 23:59",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/12 07:30",
+          "Date-Time(to)": "2025/06/12 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/13 14:00",
+          "Date-Time(to)": "2025/06/13 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/14 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223428,
+      "Departure-Date": "2025/06/10",
+      "Itinerary-Title": "2 days, one-way from Hakata-Fukuoka City to Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/10 23:59",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/12 07:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223427,
+      "Departure-Date": "2025/06/10",
+      "Itinerary-Title": "3 days, one-way from Hakata-Fukuoka City to Jeju Island",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/10 23:59",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/12 07:30",
+          "Date-Time(to)": "2025/06/12 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/13 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223426,
+      "Departure-Date": "2025/06/10",
+      "Itinerary-Title": "4 days, round-trip Asia from Fukuoka From Fukuoka",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/10 23:59",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/12 07:30",
+          "Date-Time(to)": "2025/06/12 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/13 14:00",
+          "Date-Time(to)": "2025/06/13 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/14 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223429,
+      "Departure-Date": "2025/06/12",
+      "Itinerary-Title": "4 days, round-trip Asia from Shanghai From Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/12 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/13 14:00",
+          "Date-Time(to)": "2025/06/13 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/14 10:00",
+          "Date-Time(to)": "2025/06/14 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/16 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223430,
+      "Departure-Date": "2025/06/13",
+      "Itinerary-Title": "4 days, round-trip Asia from Seogwipo From Seogwipo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/13 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/14 10:00",
+          "Date-Time(to)": "2025/06/14 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/16 08:00",
+          "Date-Time(to)": "2025/06/16 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/17 13:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223431,
+      "Departure-Date": "2025/06/14",
+      "Itinerary-Title": "4 days, round-trip Asia from Fukuoka From Fukuoka",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/14 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/16 08:00",
+          "Date-Time(to)": "2025/06/16 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/17 13:00",
+          "Date-Time(to)": "2025/06/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/18 09:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223432,
+      "Departure-Date": "2025/06/16",
+      "Itinerary-Title": "4 days, round-trip Asia from Shanghai From Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/16 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/17 13:00",
+          "Date-Time(to)": "2025/06/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/18 09:00",
+          "Date-Time(to)": "2025/06/18 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/20 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223433,
+      "Departure-Date": "2025/06/17",
+      "Itinerary-Title": "4 days, round-trip Asia from Seogwipo From Seogwipo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/18 09:00",
+          "Date-Time(to)": "2025/06/18 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/20 08:00",
+          "Date-Time(to)": "2025/06/20 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/21 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223434,
+      "Departure-Date": "2025/06/18",
+      "Itinerary-Title": "4 days, one-way from Hakata-Fukuoka City to Sasebo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/18 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/20 08:00",
+          "Date-Time(to)": "2025/06/20 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/21 14:00",
+          "Date-Time(to)": "2025/06/21 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/22 09:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223435,
+      "Departure-Date": "2025/06/20",
+      "Itinerary-Title": "4 days, round-trip Asia from Shanghai From Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/20 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/21 14:00",
+          "Date-Time(to)": "2025/06/21 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/22 09:00",
+          "Date-Time(to)": "2025/06/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/24 04:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223436,
+      "Departure-Date": "2025/06/21",
+      "Itinerary-Title": "3 days, one-way from Jeju Island to Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/21 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/22 09:00",
+          "Date-Time(to)": "2025/06/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/24 04:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223437,
+      "Departure-Date": "2025/06/22",
+      "Itinerary-Title": "2 days, one-way from Sasebo to Shanghai",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/24 04:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 12,
+          "Port-Name": "Shanghai, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223438,
+      "Departure-Date": "2025/06/25",
+      "Itinerary-Title": "1 day, one-way from Keelung to Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/25 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/26 14:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223439,
+      "Departure-Date": "2025/06/26",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/26 22:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/27 10:30",
+          "Date-Time(to)": "2025/06/27 18:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/28 08:00",
+          "Date-Time(to)": "2025/06/28 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/06/29 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/06/30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223440,
+      "Departure-Date": "2025/06/30",
+      "Itinerary-Title": "4 days, one-way from Naha to Hakata-Fukuoka City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/06/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/01 08:00",
+          "Date-Time(to)": "2025/07/01 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/02 08:00",
+          "Date-Time(to)": "2025/07/02 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/04 10:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223441,
+      "Departure-Date": "2025/07/04",
+      "Itinerary-Title": "4 days, one-way from Hakata-Fukuoka City to Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/05 10:00",
+          "Date-Time(to)": "2025/07/05 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 476,
+          "Port-Name": "Jeju Island, Seogwipo-Jeju City, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/07 08:00",
+          "Date-Time(to)": "2025/07/07 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/08 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223442,
+      "Departure-Date": "2025/07/08",
+      "Itinerary-Title": "3 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/08 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/09 13:00",
+          "Date-Time(to)": "2025/07/09 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/10 08:00",
+          "Date-Time(to)": "2025/07/10 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/11 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223443,
+      "Departure-Date": "2025/07/11",
+      "Itinerary-Title": "3 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/11 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/12 10:00",
+          "Date-Time(to)": "2025/07/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/13 08:00",
+          "Date-Time(to)": "2025/07/13 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/14 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223444,
+      "Departure-Date": "2025/07/14",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/14 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/15 13:00",
+          "Date-Time(to)": "2025/07/15 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/16 08:00",
+          "Date-Time(to)": "2025/07/16 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/17 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/18",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223445,
+      "Departure-Date": "2025/07/18",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/18 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/19 11:00",
+          "Date-Time(to)": "2025/07/19 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/20 08:00",
+          "Date-Time(to)": "2025/07/20 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/21 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223446,
+      "Departure-Date": "2025/07/22",
+      "Itinerary-Title": "3 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/22 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/23 08:00",
+          "Date-Time(to)": "2025/07/23 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/24 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223447,
+      "Departure-Date": "2025/07/25",
+      "Itinerary-Title": "4 days, one-way from Naha to Sasebo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/25 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/26 11:00",
+          "Date-Time(to)": "2025/07/26 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/27 08:00",
+          "Date-Time(to)": "2025/07/27 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/07/29 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223448,
+      "Departure-Date": "2025/07/29",
+      "Itinerary-Title": "5 days, one-way from Sasebo to Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/07/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 5233,
+          "Port-Name": "Sasebo, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/07/30 09:00",
+          "Date-Time(to)": "2025/07/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/01 08:00",
+          "Date-Time(to)": "2025/08/01 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/02 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/03",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223449,
+      "Departure-Date": "2025/08/03",
+      "Itinerary-Title": "2 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/03 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/04 08:00",
+          "Date-Time(to)": "2025/08/04 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/05 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223450,
+      "Departure-Date": "2025/08/05",
+      "Itinerary-Title": "3 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/05 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/06 13:00",
+          "Date-Time(to)": "2025/08/06 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/07 08:00",
+          "Date-Time(to)": "2025/08/07 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/08 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223451,
+      "Departure-Date": "2025/08/08",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/08 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/09 13:00",
+          "Date-Time(to)": "2025/08/09 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/10 08:00",
+          "Date-Time(to)": "2025/08/10 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/11 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/12",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223452,
+      "Departure-Date": "2025/08/12",
+      "Itinerary-Title": "4 days, one-way from Naha to Hakata-Fukuoka City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/13 11:00",
+          "Date-Time(to)": "2025/08/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/14 08:00",
+          "Date-Time(to)": "2025/08/14 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/16 10:30",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223453,
+      "Departure-Date": "2025/08/16",
+      "Itinerary-Title": "5 days, one-way from Hakata-Fukuoka City to Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/16 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1486,
+          "Port-Name": "Hakata-Fukuoka City, Japan Fukuoka"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/17 08:00",
+          "Date-Time(to)": "2025/08/17 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/19 08:00",
+          "Date-Time(to)": "2025/08/19 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/20 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/21",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223454,
+      "Departure-Date": "2025/08/21",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/21 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/22 11:00",
+          "Date-Time(to)": "2025/08/22 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/23 08:00",
+          "Date-Time(to)": "2025/08/23 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/24 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/25",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223455,
+      "Departure-Date": "2025/08/25",
+      "Itinerary-Title": "4 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/25 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/26 08:00",
+          "Date-Time(to)": "2025/08/26 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3122,
+          "Port-Name": "Miyakojima Island, Hirara, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/27 08:00",
+          "Date-Time(to)": "2025/08/27 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/28 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/08/29",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223456,
+      "Departure-Date": "2025/08/29",
+      "Itinerary-Title": "3 days, round-trip Asia from Naha From Naha",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/08/29 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/30 11:00",
+          "Date-Time(to)": "2025/08/30 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/08/31 08:00",
+          "Date-Time(to)": "2025/08/31 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/01 14:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223457,
+      "Departure-Date": "2025/09/01",
+      "Itinerary-Title": "2 days, one-way from Naha to Keelung",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/01 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/09/02 13:00",
+          "Date-Time(to)": "2025/09/02 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 918,
+          "Port-Name": "Ishigakijima Island, Sakishima-Yaeyama, Japan Okinawa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/03 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223458,
+      "Departure-Date": "2025/09/03",
+      "Itinerary-Title": "2 days, one-way from Keelung to Busan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/09/03 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/09/05 11:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223461,
+      "Departure-Date": "2025/11/21",
+      "Itinerary-Title": "7 days, one-way from Hong Kong to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/21 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/23 08:00",
+          "Date-Time(to)": "2025/11/23 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24 14:30",
+          "Date-Time(to)": "2025/11/24 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26 08:00",
+          "Date-Time(to)": "2025/11/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/11/28 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223460,
+      "Departure-Date": "2025/11/21",
+      "Itinerary-Title": "14 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/21 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/23 08:00",
+          "Date-Time(to)": "2025/11/23 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24 14:30",
+          "Date-Time(to)": "2025/11/24 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26 08:00",
+          "Date-Time(to)": "2025/11/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/28 07:00",
+          "Date-Time(to)": "2025/11/28 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29 15:00",
+          "Date-Time(to)": "2025/11/29 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01 08:00",
+          "Date-Time(to)": "2025/12/01 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02 07:00",
+          "Date-Time(to)": "2025/12/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/05 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223459,
+      "Departure-Date": "2025/11/21",
+      "Itinerary-Title": "28 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/21 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/23 08:00",
+          "Date-Time(to)": "2025/11/23 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/24 14:30",
+          "Date-Time(to)": "2025/11/24 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/26 08:00",
+          "Date-Time(to)": "2025/11/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/28 07:00",
+          "Date-Time(to)": "2025/11/28 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29 15:00",
+          "Date-Time(to)": "2025/11/29 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01 08:00",
+          "Date-Time(to)": "2025/12/01 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02 07:00",
+          "Date-Time(to)": "2025/12/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/05 10:00",
+          "Date-Time(to)": "2025/12/05 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 13:00",
+          "Date-Time(to)": "2025/12/07 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 15:00",
+          "Date-Time(to)": "2025/12/08 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": "2025/12/12 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 13:00",
+          "Date-Time(to)": "2025/12/15 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 25,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/19 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223463,
+      "Departure-Date": "2025/11/28",
+      "Itinerary-Title": "7 days, one-way from Tokyo to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/28 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29 15:00",
+          "Date-Time(to)": "2025/11/29 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01 08:00",
+          "Date-Time(to)": "2025/12/01 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02 07:00",
+          "Date-Time(to)": "2025/12/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/05 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223462,
+      "Departure-Date": "2025/11/28",
+      "Itinerary-Title": "28 days, round-trip Asia from Tokyo From Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/11/28 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/11/29 15:00",
+          "Date-Time(to)": "2025/11/29 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/01 08:00",
+          "Date-Time(to)": "2025/12/01 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/02 07:00",
+          "Date-Time(to)": "2025/12/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/05 10:00",
+          "Date-Time(to)": "2025/12/05 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 13:00",
+          "Date-Time(to)": "2025/12/07 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 15:00",
+          "Date-Time(to)": "2025/12/08 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": "2025/12/12 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 13:00",
+          "Date-Time(to)": "2025/12/15 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 18,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/19 10:00",
+          "Date-Time(to)": "2025/12/19 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 08:00",
+          "Date-Time(to)": "2025/12/21 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 14:30",
+          "Date-Time(to)": "2025/12/22 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 08:00",
+          "Date-Time(to)": "2025/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/26 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223466,
+      "Departure-Date": "2025/12/05",
+      "Itinerary-Title": "7 days, one-way from Hong Kong to Singapore",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/05 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 13:00",
+          "Date-Time(to)": "2025/12/07 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 15:00",
+          "Date-Time(to)": "2025/12/08 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223465,
+      "Departure-Date": "2025/12/05",
+      "Itinerary-Title": "14 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/05 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 13:00",
+          "Date-Time(to)": "2025/12/07 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 15:00",
+          "Date-Time(to)": "2025/12/08 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": "2025/12/12 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 13:00",
+          "Date-Time(to)": "2025/12/15 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/19 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223464,
+      "Departure-Date": "2025/12/05",
+      "Itinerary-Title": "28 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/05 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/07 13:00",
+          "Date-Time(to)": "2025/12/07 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/08 15:00",
+          "Date-Time(to)": "2025/12/08 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/10 09:00",
+          "Date-Time(to)": "2025/12/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/12 08:00",
+          "Date-Time(to)": "2025/12/12 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 13:00",
+          "Date-Time(to)": "2025/12/15 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/19 10:00",
+          "Date-Time(to)": "2025/12/19 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 08:00",
+          "Date-Time(to)": "2025/12/21 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 14:30",
+          "Date-Time(to)": "2025/12/22 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 08:00",
+          "Date-Time(to)": "2025/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/26 07:00",
+          "Date-Time(to)": "2025/12/26 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 15:00",
+          "Date-Time(to)": "2025/12/27 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 08:00",
+          "Date-Time(to)": "2025/12/29 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 07:00",
+          "Date-Time(to)": "2025/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/02 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223467,
+      "Departure-Date": "2025/12/12",
+      "Itinerary-Title": "7 days, one-way from Singapore to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/14 13:00",
+          "Date-Time(to)": "2025/12/15 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/16 08:00",
+          "Date-Time(to)": "2025/12/16 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/19 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223470,
+      "Departure-Date": "2025/12/19",
+      "Itinerary-Title": "7 days, one-way from Hong Kong to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/19 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 08:00",
+          "Date-Time(to)": "2025/12/21 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 14:30",
+          "Date-Time(to)": "2025/12/22 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 08:00",
+          "Date-Time(to)": "2025/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2025/12/26 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223469,
+      "Departure-Date": "2025/12/19",
+      "Itinerary-Title": "14 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/19 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 08:00",
+          "Date-Time(to)": "2025/12/21 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 14:30",
+          "Date-Time(to)": "2025/12/22 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 08:00",
+          "Date-Time(to)": "2025/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/26 07:00",
+          "Date-Time(to)": "2025/12/26 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 15:00",
+          "Date-Time(to)": "2025/12/27 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 08:00",
+          "Date-Time(to)": "2025/12/29 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 07:00",
+          "Date-Time(to)": "2025/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/02 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223468,
+      "Departure-Date": "2025/12/19",
+      "Itinerary-Title": "28 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/19 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/21 08:00",
+          "Date-Time(to)": "2025/12/21 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/22 14:30",
+          "Date-Time(to)": "2025/12/22 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/24 08:00",
+          "Date-Time(to)": "2025/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/26 07:00",
+          "Date-Time(to)": "2025/12/26 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 15:00",
+          "Date-Time(to)": "2025/12/27 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 08:00",
+          "Date-Time(to)": "2025/12/29 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 07:00",
+          "Date-Time(to)": "2025/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/02 10:00",
+          "Date-Time(to)": "2026/01/02 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 13:00",
+          "Date-Time(to)": "2026/01/04 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 15:00",
+          "Date-Time(to)": "2026/01/05 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 09:00",
+          "Date-Time(to)": "2026/01/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09 08:00",
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 25,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223472,
+      "Departure-Date": "2025/12/26",
+      "Itinerary-Title": "7 days, one-way from Tokyo to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/26 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 15:00",
+          "Date-Time(to)": "2025/12/27 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 08:00",
+          "Date-Time(to)": "2025/12/29 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 07:00",
+          "Date-Time(to)": "2025/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/02 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223471,
+      "Departure-Date": "2025/12/26",
+      "Itinerary-Title": "28 days, round-trip Asia from Tokyo From Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2025/12/26 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/27 15:00",
+          "Date-Time(to)": "2025/12/27 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/29 08:00",
+          "Date-Time(to)": "2025/12/29 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2025/12/30 07:00",
+          "Date-Time(to)": "2025/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/02 10:00",
+          "Date-Time(to)": "2026/01/02 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 13:00",
+          "Date-Time(to)": "2026/01/04 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 15:00",
+          "Date-Time(to)": "2026/01/05 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 09:00",
+          "Date-Time(to)": "2026/01/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09 08:00",
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 18,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223473,
+      "Departure-Date": "2026/01/02",
+      "Itinerary-Title": "28 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/02 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 13:00",
+          "Date-Time(to)": "2026/01/04 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 15:00",
+          "Date-Time(to)": "2026/01/05 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 09:00",
+          "Date-Time(to)": "2026/01/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09 08:00",
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": "2026/01/23 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/24 15:00",
+          "Date-Time(to)": "2026/01/24 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/26 08:00",
+          "Date-Time(to)": "2026/01/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/27 07:00",
+          "Date-Time(to)": "2026/01/27 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/30 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223474,
+      "Departure-Date": "2026/01/02",
+      "Itinerary-Title": "14 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/02 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 13:00",
+          "Date-Time(to)": "2026/01/04 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 15:00",
+          "Date-Time(to)": "2026/01/05 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 09:00",
+          "Date-Time(to)": "2026/01/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/09 08:00",
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223475,
+      "Departure-Date": "2026/01/02",
+      "Itinerary-Title": "7 days, one-way from Hong Kong to Singapore",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/02 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/04 13:00",
+          "Date-Time(to)": "2026/01/04 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/05 15:00",
+          "Date-Time(to)": "2026/01/05 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/07 09:00",
+          "Date-Time(to)": "2026/01/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/09 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223476,
+      "Departure-Date": "2026/01/09",
+      "Itinerary-Title": "14 days, one-way from Singapore to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223477,
+      "Departure-Date": "2026/01/09",
+      "Itinerary-Title": "7 days, one-way from Singapore to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/11 13:00",
+          "Date-Time(to)": "2026/01/12 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/13 08:00",
+          "Date-Time(to)": "2026/01/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/16 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223478,
+      "Departure-Date": "2026/01/16",
+      "Itinerary-Title": "29 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": "2026/01/23 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/24 15:00",
+          "Date-Time(to)": "2026/01/24 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/26 08:00",
+          "Date-Time(to)": "2026/01/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/27 07:00",
+          "Date-Time(to)": "2026/01/27 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/30 10:00",
+          "Date-Time(to)": "2026/01/30 22:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/01 13:00",
+          "Date-Time(to)": "2026/02/01 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/02 15:00",
+          "Date-Time(to)": "2026/02/02 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/04 07:00",
+          "Date-Time(to)": "2026/02/04 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 577,
+          "Port-Name": "Sihanoukville, Cambodia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/05 08:00",
+          "Date-Time(to)": "2026/02/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/07 08:00",
+          "Date-Time(to)": "2026/02/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/09 13:00",
+          "Date-Time(to)": "2026/02/10 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 26,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/11 08:00",
+          "Date-Time(to)": "2026/02/11 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/14 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 30,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223479,
+      "Departure-Date": "2026/01/16",
+      "Itinerary-Title": "14 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": "2026/01/23 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/24 15:00",
+          "Date-Time(to)": "2026/01/24 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/26 08:00",
+          "Date-Time(to)": "2026/01/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/27 07:00",
+          "Date-Time(to)": "2026/01/27 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/30 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223480,
+      "Departure-Date": "2026/01/16",
+      "Itinerary-Title": "7 days, one-way from Hong Kong to Tokyo",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/16 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/18 08:00",
+          "Date-Time(to)": "2026/01/18 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1312,
+          "Port-Name": "Keelung, Taipei City, Taiwan China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/19 14:30",
+          "Date-Time(to)": "2026/01/19 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 879,
+          "Port-Name": "Naha, Okinawa Island Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/21 08:00",
+          "Date-Time(to)": "2026/01/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 631,
+          "Port-Name": "Kagoshima City, Japan Kagoshima"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223481,
+      "Departure-Date": "2026/01/23",
+      "Itinerary-Title": "7 days, one-way from Tokyo to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/23 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 9017,
+          "Port-Name": "Tokyo, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/24 15:00",
+          "Date-Time(to)": "2026/01/24 23:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 11,
+          "Port-Name": "Kobe-Osaka, Kyoto, Japan"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/26 08:00",
+          "Date-Time(to)": "2026/01/26 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 537,
+          "Port-Name": "Nagasaki City, Japan Nagasaki"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/01/27 07:00",
+          "Date-Time(to)": "2026/01/27 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 225,
+          "Port-Name": "Busan, Korea"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/01/30 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223482,
+      "Departure-Date": "2026/01/30",
+      "Itinerary-Title": "15 days, round-trip Asia from Hong Kong China From Hong Kong China",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/30 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/01 13:00",
+          "Date-Time(to)": "2026/02/01 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/02 15:00",
+          "Date-Time(to)": "2026/02/02 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/04 07:00",
+          "Date-Time(to)": "2026/02/04 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 577,
+          "Port-Name": "Sihanoukville, Cambodia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/05 08:00",
+          "Date-Time(to)": "2026/02/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/07 08:00",
+          "Date-Time(to)": "2026/02/07 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/09 13:00",
+          "Date-Time(to)": "2026/02/10 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 12,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/11 08:00",
+          "Date-Time(to)": "2026/02/11 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/14 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223483,
+      "Departure-Date": "2026/01/30",
+      "Itinerary-Title": "8 days, one-way from Hong Kong to Singapore",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/01/30 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/01 13:00",
+          "Date-Time(to)": "2026/02/01 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 398,
+          "Port-Name": "Nha Trang, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/02 15:00",
+          "Date-Time(to)": "2026/02/02 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 167,
+          "Port-Name": "Saigon, Ho Chi Minh City, Vietnam"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/04 07:00",
+          "Date-Time(to)": "2026/02/04 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 577,
+          "Port-Name": "Sihanoukville, Cambodia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/05 08:00",
+          "Date-Time(to)": "2026/02/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 396,
+          "Port-Name": "Koh Samui Island Thailand"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/07 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4223484,
+      "Departure-Date": "2026/02/07",
+      "Itinerary-Title": "7 days, one-way from Singapore to Hong Kong",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/02/07 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 10,
+          "Port-Name": "Singapore"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/09 13:00",
+          "Date-Time(to)": "2026/02/10 01:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 128,
+          "Port-Name": "Bandar Seri Begawan, Muara, Brunei"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/02/11 08:00",
+          "Date-Time(to)": "2026/02/11 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 771,
+          "Port-Name": "Puerto Princesa, Palawan Island Philippines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/02/14 10:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 13,
+          "Port-Name": "Hong Kong, China"
+        }
+      ]
+    }
+  ]
+}

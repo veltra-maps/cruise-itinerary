@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Byway-Style Cruise Route</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background: #fffaf0;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 70%;
+      visibility: hidden;
+      background-color: #fffaf0
+    }
+    /* 右サイドメニュー */
+    #sidebar {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 30%;
+      height: 100%;
+      background: #f6f6f6;
+      border-left: 1px solid #e0d8cc;
+      overflow-y: auto;
+      padding: 1%;
+    }
+    /* 旅程テキスト 本文 */
+    .stop {
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      padding-left: 8px;
+      border-bottom: 1px solid #ddd5c7;
+      font-size: 14px;
+    }
+    /* 旅程テキスト タイトル */
+    .stop h3 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: normal;
+      display: flex;
+      align-items: center;
+    }
+    /* 旅程内のマーカー */
+    .port-icon {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      margin-right: 6px;
+    }
+    /* 旅程内のStart-End Marker */
+    .port-icon.startend {
+      background-color: #c44d4d;
+      border: 6px solid #c44d4d;
+    }
+    /* 旅程中 Marker */
+    .port-icon.port {
+      border: 6px double #c44d4d;
+      background-color: transparent;
+    }
+    /* Map内のマーカー */
+    .byway-marker {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      border: 3px solid #c44d4d;
+      background-color: #fff;
+    }
+     /* Map内のStart-End Marker */
+    .byway-marker.startend {
+      background-color: #c44d4d;
+      border: 6px solid #c44d4d;
+    }
+     /* Map中 Marker */
+    .byway-marker.port {
+      border: 6px double #c44d4d;
+      background-color: #fff;
+    }
+    .marker-label {
+      background: white;
+      border: 1px solid #FFFFFF;
+      font-size: 13px;
+      padding: 2px 6px;
+      color: #000000;
+      white-space: nowrap;
+      margin-left: 18px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+<div id="map"></div>
+<div id="sidebar">
+  <h3 style="font-size: 16px; margin-top: 0;">Cruise Itinerary</h3>
+  <table id="itineraryTable">
+    <thead><tr><th>Ports</th><th>Dates</th></tr></thead>
+    <tbody></tbody>
+  </table>
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ29vZHllYXIyMDI1IiwiYSI6ImNtOHU3dDk4YjBoZzMyaXM2emVjbmNpeWQifQ.U94pBVke-OvZ0UBlhmTXvA';
+
+const params = new URLSearchParams(window.location.search);
+const ship = params.get('ship');
+const itineraryNo = params.get('ItineraryNo');
+
+function formatDateRange(from, to, isOvernight) {
+  if (from && to) {
+    const fromDate = new Date(from);
+    const toDate = new Date(to);
+    const sameDay = fromDate.toDateString() === toDate.toDateString();
+    const options = { month: 'short', day: 'numeric' };
+    const fromStr = `${fromDate.toLocaleDateString('en-US', options)} ${fromDate.getHours()}:${String(fromDate.getMinutes()).padStart(2, '0')}`;
+    const toStr = `${sameDay ? '' : toDate.toLocaleDateString('en-US', options) + ' '}${toDate.getHours()}:${String(toDate.getMinutes()).padStart(2, '0')}`;
+    return `${fromStr} - ${toStr}` + (isOvernight ? ' (Overnight)' : '');
+  } else if (from || to) {
+    const date = new Date(from || to);
+    return `${date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} ${date.getHours()}:${String(date.getMinutes()).padStart(2, '0')}`;
+  } else {
+    return 'Full-day';
+  }
+}
+
+if (ship && itineraryNo) {
+  Promise.all([
+    fetch(`./itinerary_schedules/${ship}.json`).then(res => res.json()),
+    fetch('./itinerary_schedules/port-by-country.json').then(res => res.json())
+  ])
+  .then(([itineraryData, portMasterData]) => {
+    const portMap = {};
+    portMasterData.forEach(p => { portMap[p.PortNo] = p; });
+
+    const itinerary = itineraryData.Itineraries.find(i => i["Itinerary-No"] == itineraryNo);
+    if (!itinerary) return alert('Itinerary not found');
+
+    const sidebar = document.getElementById('sidebar');
+    const coords = [];
+    const coordsForBounds = [];
+    const seen = new Set();
+
+    const baseSchedule = itinerary.Schedule;
+    let updatedSchedule = [...baseSchedule];
+
+    for (let i = 1; i < baseSchedule.length; i++) {
+      const prev = baseSchedule[i - 1];
+      const curr = baseSchedule[i];
+      if (curr["Days-at-Sea"] >= 2) {
+        const prevPort = portMap[prev['Port-ID']];
+        const currPort = portMap[curr['Port-ID']];
+        const midLat = (prevPort.Latitude + currPort.Latitude) / 2;
+        const midLng = (prevPort.Longitude + currPort.Longitude) / 2;
+        const virtualId = `atsea-${i}`;
+        portMap[virtualId] = {
+          PortNo: virtualId,
+          PortName: 'At Sea',
+          Latitude: midLat,
+          Longitude: midLng
+        };
+        updatedSchedule.splice(i + (updatedSchedule.length - baseSchedule.length), 0, {
+          'Port-ID': virtualId,
+          'Start-End': 0,
+          'Virtual': true
+        });
+      }
+    }
+
+    const portWithCoords = updatedSchedule.map(entry => {
+      const port = portMap[entry["Port-ID"]] || { PortName: "At Sea", Latitude: 0, Longitude: 0 };
+      const isVirtual = !!entry.Virtual;
+      const isStart = entry["Start-End"] === 1;
+      const isEnd = entry["Start-End"] === 2;
+      const isOvernight = entry["Port-Days"] >= 1;
+      const iconClass = isStart || isEnd ? 'startend' : 'port';
+
+      if (!isVirtual) {
+        coords.push([port.Longitude, port.Latitude]);
+        const key = `${port.Longitude},${port.Latitude}`;
+        if (!seen.has(key)) {
+          coordsForBounds.push([port.Longitude, port.Latitude]);
+          seen.add(key);
+        }
+      }
+
+      return {
+        entry,
+        coord: [port.Longitude, port.Latitude],
+        port,
+        iconClass,
+        isVirtual,
+        isOvernight
+      };
+    });
+
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/goodyear2025/cm9mkkyv7002c01sp3xt8gpxc',
+      //style: 'mapbox://styles/goodyear2025/cm8wjyrub011h01sn3oh84ec0',
+      //center: [0, 0],
+      //zoom: 1
+    });
+
+    map.on('load', () => {
+      let lastPortId = null;
+
+      portWithCoords.forEach(({ entry, coord, port, iconClass, isOvernight, isVirtual }) => {
+
+if (!isVirtual) {
+  const el = document.createElement('div');
+  el.className = 'byway-marker single-marker ' + iconClass;
+  el.textContent = '';
+
+  const marker = new mapboxgl.Marker({ element: el, anchor: 'center' })
+    .setLngLat(coord)
+    .addTo(map);
+
+  // カスタムラベル（byway風）をトグル表示
+  let label = null;
+  let isOpen = false;
+
+      // ラベルをデフォルト表示
+      label = document.createElement('div');
+      label.className = 'marker-label';
+      label.textContent = `${new Date(entry["Date-Time(to)"]).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}\n${port.PortName}`;
+      label.style.whiteSpace = 'pre'; // 改行を効かせる
+      new mapboxgl.Marker({ element: label, anchor: 'left' })
+        .setLngLat(coord)
+        .addTo(map);
+      // マーカークリックでラベルを削除
+      el.addEventListener('click', () => {
+        label.remove();
+      });
+}
+
+        if (entry['Port-ID'] !== lastPortId || isVirtual) {
+          const row = document.createElement('div');
+          row.className = 'stop';
+          row.innerHTML = `
+            <h3><span class="port-icon ${iconClass}"></span>${port.PortName}</h3>
+            <div>${formatDateRange(entry["Date-Time(from)"], entry["Date-Time(to)"], isOvernight)}</div>
+          `;
+          sidebar.appendChild(row);
+          lastPortId = entry['Port-ID'];
+        }
+      });
+
+      map.addSource('route', {
+        type: 'geojson',
+        data: {
+          type: 'Feature',
+          geometry: { type: 'LineString', coordinates: coords }
+        }
+      });
+
+      map.addLayer({
+        id: 'route-line',
+        type: 'line',
+        source: 'route',
+        layout: { 'line-join': 'round', 'line-cap': 'round' },
+        paint: { 'line-color': '#c44d4d', 'line-width': 4, 'line-dasharray': [2, 2] }
+      });
+
+      const bounds = new mapboxgl.LngLatBounds();
+      coordsForBounds.forEach(c => bounds.extend(c));
+      map.fitBounds(bounds, { 
+        padding: 150, 
+        linear: true,
+        animate: false
+      });
+      document.getElementById('map').style.visibility = 'visible';
+    });
+  });
+} else {
+  alert("Missing ship or ItineraryNo in query parameters.");
+}
+</script>
+
+</body>
+</html>
