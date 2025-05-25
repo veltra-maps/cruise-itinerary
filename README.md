@@ -45,7 +45,7 @@ https://veltra-maps.github.io/cruise-itinerary/route.html?ship=622_Celebrity-Mil
 
 以下の手順でローカルプロジェクトを GitHub に初回アップロードできます：
 
-````bash
+```bash
 cd ~/ProjectsDesktop/cruise-itinerary
 
 # Git 初期化（初回のみ）
@@ -63,23 +63,32 @@ git branch -M main
 
 # GitHub に push（初回）
 git push -u origin main
-## 「ローカルの main ブランチの差分（＝変更・追加・削除されたファイル）を GitHub の main に反映する」**というコマンド
+```
 
 もしすでに GitHub 上に main ブランチが存在していて push が拒否された場合は、以下を使用して上書きできます（慎重に）：
 
 ```bash
 git push -f origin main
-````
+```
 
-# ファイル追加・変更後（まとめて差分全部アップ）
+---
 
+### 🔄 変更をアップロードする（2 回目以降）
+
+#### ✅ すべての差分をまとめてアップする場合：
+
+```bash
 git add .
 git commit -m "Update project files"
 git push origin main
-
 ```
-# ファイル追加・変更後 （個別でアップする場合 例：README.md）
+
+#### ✅ 特定ファイルだけをアップする場合（例：README.md のみ）：
+
+```bash
 git add README.md
 git commit -m "Update README with latest project setup"
 git push origin main
 ```
+
+---
