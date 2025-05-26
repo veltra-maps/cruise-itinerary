@@ -8,21 +8,27 @@
 
 ```
 cruise-itinerary/
-├── .gitignore               # Gitが追跡しないファイルを指定（node_modules, .DS_Storeなど）
-├── itinerary_schedules/    # 旅程JSONファイルの保管場所（ローカル開発用、Gitには含めない）
+├── .gitignore              # Gitが追跡しないファイルを指定（node_modules, .DS_Storeなど）
+├── itinerary_schedules/    # 各クルーズの旅程JSONファイルの保管場所
+│ ├── {クルーズ別}.json　　　　# {Cruise-Ship-Code}_{Cruise-Name}.jsonで各クルーズの旅程を管理
+│ ├── port-by-country.json  # 各港の緯度経度マスタ。この緯度経度でルートを作成する
 ├── index.html              # メインのHTMLファイル。旅程ルートを描画する
 ├── ship.json               # 旅程データの集約ファイル（CloudflareやGitHubに設置可能）
 ├── port.json               # 港マスタ（Cloudflareまたは静的ファイル）
 ├── images/                 # マーカー画像やアイコン（VT_symbol など）
 ├── README.md               # このファイル（構成や使い方の説明）
 
-├── package.json            # npm構成ファイル（ローカル開発用、Gitには含めない）
-├── package-lock.json       # npm依存関係のロック（Gitには含めない）
-├── node_modules/           # npmライブラリ群（Gitには含めない）
-
+（ローカル開発用、Gitには含めない）
+├── package.json            # npm構成ファイル
+├── package-lock.json       # npm依存関係のロック
+├── node_modules/           # npmライブラリ群
 ├── csv_convert.js          # (オプション) Jasonファイルの形式の内容をCSVにしてチェックしやすくする補助スクリプト。jsonファイルならなんでもOK
 ├── csv_convert_files/      # (オプション) 出力されたCSVファイルの保存場所
 ```
+
+## port-by-country.json の更新および作成方法
+
+GoogleSpleadSheet の AppsScript - 「Port by Country (put - GoogleDrive port-by-country.json).gs」を実行
 
 ---
 
