@@ -19,6 +19,9 @@ cruise-itinerary/
 ├── package.json            # npm構成ファイル（ローカル開発用、Gitには含めない）
 ├── package-lock.json       # npm依存関係のロック（Gitには含めない）
 ├── node_modules/           # npmライブラリ群（Gitには含めない）
+
+├── csv_convert.js          # (オプション) Jasonファイルの形式の内容をCSVにしてチェックしやすくする補助スクリプト。jsonファイルならなんでもOK
+├── csv_convert_files/      # (オプション) 出力されたCSVファイルの保存場所
 ```
 
 ---
