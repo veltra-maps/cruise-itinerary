@@ -5,3 +5,4 @@ package.json
 .env
 csv_convert.js
 csv_convert_files/
+CheckGAS.js
