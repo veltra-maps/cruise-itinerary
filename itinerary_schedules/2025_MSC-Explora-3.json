@@ -1,0 +1,4952 @@
+{
+  "Cruise-Ship-Code": 2025,
+  "Cruise-Ship": "MSC Explora 3",
+  "Itineraries": [
+    {
+      "Itinerary-No": 4414738,
+      "Departure-Date": "2026/08/03",
+      "Itinerary-Title": "7 days, one-way from Barcelona to Lisbon",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/03 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 82,
+          "Port-Name": "Barcelona, Spain"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/04 08:00",
+          "Date-Time(to)": "2026/08/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 77,
+          "Port-Name": "Palma de Mallorca, Majorca Island Balearic Spain"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/06 09:00",
+          "Date-Time(to)": "2026/08/06 23:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2072,
+          "Port-Name": "Puerto Banus-Marbella, Spain Costa del Sol"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/07 08:00",
+          "Date-Time(to)": "2026/08/07 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 680,
+          "Port-Name": "Tangier, Morocco, Tanger-Ville"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/08 08:00",
+          "Date-Time(to)": "2026/08/08 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 627,
+          "Port-Name": "Cadiz, Spain, Sevilla"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/09 08:00",
+          "Date-Time(to)": "2026/08/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 945,
+          "Port-Name": "Portimao, Portugal"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/10 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 65,
+          "Port-Name": "Lisbon, Portugal"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414740,
+      "Departure-Date": "2026/08/10",
+      "Itinerary-Title": "7 days, one-way from Lisbon to Southampton",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 65,
+          "Port-Name": "Lisbon, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/11 08:00",
+          "Date-Time(to)": "2026/08/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/12 09:00",
+          "Date-Time(to)": "2026/08/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 564,
+          "Port-Name": "La Coruna, Spain Galicia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/13 09:00",
+          "Date-Time(to)": "2026/08/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 697,
+          "Port-Name": "Bilbao, Spain Biscay Basque Country"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/14 08:30",
+          "Date-Time(to)": "2026/08/14 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3813,
+          "Port-Name": "Bordeaux, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/15 08:00",
+          "Date-Time(to)": "2026/08/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 778,
+          "Port-Name": "Saint-Jean-de-Luz, France"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/17 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414739,
+      "Departure-Date": "2026/08/10",
+      "Itinerary-Title": "15 days, one-way from Lisbon to Copenhagen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 65,
+          "Port-Name": "Lisbon, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/11 08:00",
+          "Date-Time(to)": "2026/08/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3739,
+          "Port-Name": "Porto-Leixoes, Oporto, Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/12 09:00",
+          "Date-Time(to)": "2026/08/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 564,
+          "Port-Name": "La Coruna, Spain Galicia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/13 09:00",
+          "Date-Time(to)": "2026/08/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 697,
+          "Port-Name": "Bilbao, Spain Biscay Basque Country"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/14 08:30",
+          "Date-Time(to)": "2026/08/14 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3813,
+          "Port-Name": "Bordeaux, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/15 08:00",
+          "Date-Time(to)": "2026/08/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 778,
+          "Port-Name": "Saint-Jean-de-Luz, France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/17 07:00",
+          "Date-Time(to)": "2026/08/17 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/19 08:00",
+          "Date-Time(to)": "2026/08/19 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9908,
+          "Port-Name": "Mandal, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20 08:00",
+          "Date-Time(to)": "2026/08/20 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 181,
+          "Port-Name": "Stavanger, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/21 09:00",
+          "Date-Time(to)": "2026/08/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 746,
+          "Port-Name": "Olden, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22 09:00",
+          "Date-Time(to)": "2026/08/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 548,
+          "Port-Name": "Bergen, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/23 09:00",
+          "Date-Time(to)": "2026/08/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 1361,
+          "Port-Name": "Flam, Norway"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/25 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414743,
+      "Departure-Date": "2026/08/17",
+      "Itinerary-Title": "8 days, one-way from Southampton to Copenhagen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/19 08:00",
+          "Date-Time(to)": "2026/08/19 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 9908,
+          "Port-Name": "Mandal, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20 08:00",
+          "Date-Time(to)": "2026/08/20 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 181,
+          "Port-Name": "Stavanger, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/21 09:00",
+          "Date-Time(to)": "2026/08/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 746,
+          "Port-Name": "Olden, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22 09:00",
+          "Date-Time(to)": "2026/08/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 548,
+          "Port-Name": "Bergen, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/23 09:00",
+          "Date-Time(to)": "2026/08/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1361,
+          "Port-Name": "Flam, Norway"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/08/25 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414742,
+      "Departure-Date": "2026/08/17",
+      "Itinerary-Title": "16 days, one-way from Southampton to Copenhagen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/19 08:00",
+          "Date-Time(to)": "2026/08/19 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 9908,
+          "Port-Name": "Mandal, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20 08:00",
+          "Date-Time(to)": "2026/08/20 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 181,
+          "Port-Name": "Stavanger, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/21 09:00",
+          "Date-Time(to)": "2026/08/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 746,
+          "Port-Name": "Olden, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22 09:00",
+          "Date-Time(to)": "2026/08/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 548,
+          "Port-Name": "Bergen, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/23 09:00",
+          "Date-Time(to)": "2026/08/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1361,
+          "Port-Name": "Flam, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/25 08:00",
+          "Date-Time(to)": "2026/08/25 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/27 09:00",
+          "Date-Time(to)": "2026/08/27 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/28 09:00",
+          "Date-Time(to)": "2026/08/29 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 13,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/30 09:00",
+          "Date-Time(to)": "2026/08/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/31 08:00",
+          "Date-Time(to)": "2026/08/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/01 09:00",
+          "Date-Time(to)": "2026/09/01 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 268,
+          "Port-Name": "Bornholm Island Denmark, Ronne-Gudhjem"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/02 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414741,
+      "Departure-Date": "2026/08/17",
+      "Itinerary-Title": "23 days, round-trip An Extended Journey from Northern Spirit to Cultural Riches Artistic Marvels",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/19 08:00",
+          "Date-Time(to)": "2026/08/19 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 9908,
+          "Port-Name": "Mandal, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/20 08:00",
+          "Date-Time(to)": "2026/08/20 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 181,
+          "Port-Name": "Stavanger, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/21 09:00",
+          "Date-Time(to)": "2026/08/21 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 746,
+          "Port-Name": "Olden, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/22 09:00",
+          "Date-Time(to)": "2026/08/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 548,
+          "Port-Name": "Bergen, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/23 09:00",
+          "Date-Time(to)": "2026/08/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1361,
+          "Port-Name": "Flam, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/25 08:00",
+          "Date-Time(to)": "2026/08/25 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/27 09:00",
+          "Date-Time(to)": "2026/08/27 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/28 09:00",
+          "Date-Time(to)": "2026/08/29 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 13,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/30 09:00",
+          "Date-Time(to)": "2026/08/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/31 08:00",
+          "Date-Time(to)": "2026/08/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/01 09:00",
+          "Date-Time(to)": "2026/09/01 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 268,
+          "Port-Name": "Bornholm Island Denmark, Ronne-Gudhjem"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/02 08:00",
+          "Date-Time(to)": "2026/09/02 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/03 08:00",
+          "Date-Time(to)": "2026/09/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 48,
+          "Port-Name": "Aarhus, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/04 08:00",
+          "Date-Time(to)": "2026/09/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 365,
+          "Port-Name": "Lysekil, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/05 08:00",
+          "Date-Time(to)": "2026/09/05 23:55",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/07 08:00",
+          "Date-Time(to)": "2026/09/07 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414744,
+      "Departure-Date": "2026/08/25",
+      "Itinerary-Title": "8 days, round-trip A Journey through Cultural Riches Stunning Scenery",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/08/25 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/27 09:00",
+          "Date-Time(to)": "2026/08/27 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/28 09:00",
+          "Date-Time(to)": "2026/08/29 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/30 09:00",
+          "Date-Time(to)": "2026/08/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/08/31 08:00",
+          "Date-Time(to)": "2026/08/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/01 09:00",
+          "Date-Time(to)": "2026/09/01 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 268,
+          "Port-Name": "Bornholm Island Denmark, Ronne-Gudhjem"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/02 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414747,
+      "Departure-Date": "2026/09/02",
+      "Itinerary-Title": "5 days, one-way from Copenhagen to Hamburg",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/02 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/03 08:00",
+          "Date-Time(to)": "2026/09/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 48,
+          "Port-Name": "Aarhus, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/04 08:00",
+          "Date-Time(to)": "2026/09/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 365,
+          "Port-Name": "Lysekil, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/05 08:00",
+          "Date-Time(to)": "2026/09/05 23:55",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/07 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414746,
+      "Departure-Date": "2026/09/02",
+      "Itinerary-Title": "7 days, one-way from Copenhagen to Southampton",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/02 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/03 08:00",
+          "Date-Time(to)": "2026/09/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 48,
+          "Port-Name": "Aarhus, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/04 08:00",
+          "Date-Time(to)": "2026/09/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 365,
+          "Port-Name": "Lysekil, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/05 08:00",
+          "Date-Time(to)": "2026/09/05 23:55",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/07 08:00",
+          "Date-Time(to)": "2026/09/07 23:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414745,
+      "Departure-Date": "2026/09/02",
+      "Itinerary-Title": "15 days, one-way from Copenhagen to Reykjavik",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/02 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/03 08:00",
+          "Date-Time(to)": "2026/09/03 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 48,
+          "Port-Name": "Aarhus, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/04 08:00",
+          "Date-Time(to)": "2026/09/04 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 365,
+          "Port-Name": "Lysekil, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/05 08:00",
+          "Date-Time(to)": "2026/09/05 23:55",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/07 08:00",
+          "Date-Time(to)": "2026/09/07 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": "2026/09/09 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11 08:00",
+          "Date-Time(to)": "2026/09/11 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 9043,
+          "Port-Name": "Greencastle-Londonderry, Foyle Port, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/12 10:00",
+          "Date-Time(to)": "2026/09/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 775,
+          "Port-Name": "Stornoway, Isle of Lewis and Harris, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14 09:00",
+          "Date-Time(to)": "2026/09/14 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15 08:00",
+          "Date-Time(to)": "2026/09/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/16 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414750,
+      "Departure-Date": "2026/09/07",
+      "Itinerary-Title": "10 days, one-way from Hamburg to Reykjavik",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/07 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": "2026/09/09 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11 08:00",
+          "Date-Time(to)": "2026/09/11 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9043,
+          "Port-Name": "Greencastle-Londonderry, Foyle Port, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/12 10:00",
+          "Date-Time(to)": "2026/09/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 775,
+          "Port-Name": "Stornoway, Isle of Lewis and Harris, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14 09:00",
+          "Date-Time(to)": "2026/09/14 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15 08:00",
+          "Date-Time(to)": "2026/09/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/16 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414749,
+      "Departure-Date": "2026/09/07",
+      "Itinerary-Title": "21 days, one-way from Hamburg to Quebec City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/07 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": "2026/09/09 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11 08:00",
+          "Date-Time(to)": "2026/09/11 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9043,
+          "Port-Name": "Greencastle-Londonderry, Foyle Port, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/12 10:00",
+          "Date-Time(to)": "2026/09/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 775,
+          "Port-Name": "Stornoway, Isle of Lewis and Harris, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14 09:00",
+          "Date-Time(to)": "2026/09/14 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15 08:00",
+          "Date-Time(to)": "2026/09/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/16 15:00",
+          "Date-Time(to)": "2026/09/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/18 08:00",
+          "Date-Time(to)": "2026/09/18 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/21 08:00",
+          "Date-Time(to)": "2026/09/21 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 957,
+          "Port-Name": "Paamiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/22 09:00",
+          "Date-Time(to)": "2026/09/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1048,
+          "Port-Name": "Nanortalik, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/25 08:00",
+          "Date-Time(to)": "2026/09/25 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 664,
+          "Port-Name": "Corner Brook NL, Newfoundland-Labrador Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/26 08:00",
+          "Date-Time(to)": "2026/09/26 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 1000,
+          "Port-Name": "Havre-Saint-Pierre, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/27 09:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414748,
+      "Departure-Date": "2026/09/07",
+      "Itinerary-Title": "30 days, one-way from Hamburg to New York",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/07 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 55,
+          "Port-Name": "Hamburg, Germany"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/09 07:00",
+          "Date-Time(to)": "2026/09/09 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11 08:00",
+          "Date-Time(to)": "2026/09/11 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9043,
+          "Port-Name": "Greencastle-Londonderry, Foyle Port, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/12 10:00",
+          "Date-Time(to)": "2026/09/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 775,
+          "Port-Name": "Stornoway, Isle of Lewis and Harris, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14 09:00",
+          "Date-Time(to)": "2026/09/14 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15 08:00",
+          "Date-Time(to)": "2026/09/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/16 15:00",
+          "Date-Time(to)": "2026/09/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 11,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/18 08:00",
+          "Date-Time(to)": "2026/09/18 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/21 08:00",
+          "Date-Time(to)": "2026/09/21 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 957,
+          "Port-Name": "Paamiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/22 09:00",
+          "Date-Time(to)": "2026/09/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 1048,
+          "Port-Name": "Nanortalik, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/25 08:00",
+          "Date-Time(to)": "2026/09/25 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 664,
+          "Port-Name": "Corner Brook NL, Newfoundland-Labrador Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/26 08:00",
+          "Date-Time(to)": "2026/09/26 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 1000,
+          "Port-Name": "Havre-Saint-Pierre, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/27 09:00",
+          "Date-Time(to)": "2026/09/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 22,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/29 08:00",
+          "Date-Time(to)": "2026/09/29 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 693,
+          "Port-Name": "Saguenay, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/30 09:00",
+          "Date-Time(to)": "2026/09/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 1001,
+          "Port-Name": "Sept-Iles, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/02 08:00",
+          "Date-Time(to)": "2026/10/02 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 704,
+          "Port-Name": "Prince Edward Island, Charlottetown, Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/03 08:00",
+          "Date-Time(to)": "2026/10/03 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 3667,
+          "Port-Name": "Sydney NS, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/04 09:00",
+          "Date-Time(to)": "2026/10/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 28,
+          "Port-ID": 97,
+          "Port-Name": "Halifax, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/06 08:00",
+          "Date-Time(to)": "2026/10/06 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 30,
+          "Port-ID": 542,
+          "Port-Name": "Newport RI, Rhode Island"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/10/07 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 31,
+          "Port-ID": 98,
+          "Port-Name": "New York, NYC Manhattan-Brooklyn"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414751,
+      "Departure-Date": "2026/09/09",
+      "Itinerary-Title": "8 days, one-way from Southampton to Reykjavik",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 115,
+          "Port-Name": "Southampton, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/11 08:00",
+          "Date-Time(to)": "2026/09/11 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 9043,
+          "Port-Name": "Greencastle-Londonderry, Foyle Port, Northern Ireland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/12 10:00",
+          "Date-Time(to)": "2026/09/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 775,
+          "Port-Name": "Stornoway, Isle of Lewis and Harris, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/14 09:00",
+          "Date-Time(to)": "2026/09/14 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/15 08:00",
+          "Date-Time(to)": "2026/09/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/16 15:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/17",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414752,
+      "Departure-Date": "2026/09/17",
+      "Itinerary-Title": "11 days, one-way from Reykjavik to Quebec City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/18 08:00",
+          "Date-Time(to)": "2026/09/18 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/21 08:00",
+          "Date-Time(to)": "2026/09/21 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 957,
+          "Port-Name": "Paamiut, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/22 09:00",
+          "Date-Time(to)": "2026/09/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1048,
+          "Port-Name": "Nanortalik, Greenland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/25 08:00",
+          "Date-Time(to)": "2026/09/25 16:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 664,
+          "Port-Name": "Corner Brook NL, Newfoundland-Labrador Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/26 08:00",
+          "Date-Time(to)": "2026/09/26 14:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 1000,
+          "Port-Name": "Havre-Saint-Pierre, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/27 09:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/09/28",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414753,
+      "Departure-Date": "2026/09/28",
+      "Itinerary-Title": "9 days, one-way from Quebec City to New York",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/09/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/29 08:00",
+          "Date-Time(to)": "2026/09/29 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 693,
+          "Port-Name": "Saguenay, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/09/30 09:00",
+          "Date-Time(to)": "2026/09/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1001,
+          "Port-Name": "Sept-Iles, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/02 08:00",
+          "Date-Time(to)": "2026/10/02 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 704,
+          "Port-Name": "Prince Edward Island, Charlottetown, Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/03 08:00",
+          "Date-Time(to)": "2026/10/03 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 3667,
+          "Port-Name": "Sydney NS, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/04 09:00",
+          "Date-Time(to)": "2026/10/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 97,
+          "Port-Name": "Halifax, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/06 08:00",
+          "Date-Time(to)": "2026/10/06 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 542,
+          "Port-Name": "Newport RI, Rhode Island"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/10/07 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 98,
+          "Port-Name": "New York, NYC Manhattan-Brooklyn"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414754,
+      "Departure-Date": "2026/10/07",
+      "Itinerary-Title": "8 days, one-way from New York to Quebec City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/10/07 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 98,
+          "Port-Name": "New York, NYC Manhattan-Brooklyn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/09 08:00",
+          "Date-Time(to)": "2026/10/09 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 674,
+          "Port-Name": "Portland ME, Maine"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/10 08:00",
+          "Date-Time(to)": "2026/10/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 691,
+          "Port-Name": "Saint John NB, New Brunswick Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/12 08:00",
+          "Date-Time(to)": "2026/10/12 14:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 999,
+          "Port-Name": "Madeleine-Magdalen Islands, Cap-aux Meules, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/13 09:00",
+          "Date-Time(to)": "2026/10/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1000,
+          "Port-Name": "Havre-Saint-Pierre, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/14 09:00",
+          "Date-Time(to)": "2026/10/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 964,
+          "Port-Name": "Baie-Comeau, Quebec Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/10/15 09:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414755,
+      "Departure-Date": "2026/10/15",
+      "Itinerary-Title": "10 days, one-way from Quebec City to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/10/15 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 662,
+          "Port-Name": "Quebec City, Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/16 09:00",
+          "Date-Time(to)": "2026/10/16 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 693,
+          "Port-Name": "Saguenay, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/17 09:00",
+          "Date-Time(to)": "2026/10/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1001,
+          "Port-Name": "Sept-Iles, Quebec Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/19 08:00",
+          "Date-Time(to)": "2026/10/19 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 3667,
+          "Port-Name": "Sydney NS, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/20 09:00",
+          "Date-Time(to)": "2026/10/20 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 97,
+          "Port-Name": "Halifax, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/22 08:00",
+          "Date-Time(to)": "2026/10/22 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 98,
+          "Port-Name": "New York, NYC Manhattan-Brooklyn"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/10/25 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414756,
+      "Departure-Date": "2026/10/25",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/10/25 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/28 08:00",
+          "Date-Time(to)": "2026/10/28 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/29 09:00",
+          "Date-Time(to)": "2026/10/29 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/30 09:00",
+          "Date-Time(to)": "2026/10/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/10/31 08:00",
+          "Date-Time(to)": "2026/10/31 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/11/01 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414757,
+      "Departure-Date": "2026/11/01",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/11/01 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/02 09:00",
+          "Date-Time(to)": "2026/11/02 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/03 09:00",
+          "Date-Time(to)": "2026/11/03 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/04 09:00",
+          "Date-Time(to)": "2026/11/05 01:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/05 09:00",
+          "Date-Time(to)": "2026/11/05 17:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1957,
+          "Port-Name": "Anguilla Island, UK, Sandy Ground"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/11/08 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414758,
+      "Departure-Date": "2026/11/08",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/11/08 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/10 09:00",
+          "Date-Time(to)": "2026/11/10 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 15013,
+          "Port-Name": "Providenciales Island, Turks and Caicos Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/11 09:00",
+          "Date-Time(to)": "2026/11/11 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/12 09:00",
+          "Date-Time(to)": "2026/11/12 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 791,
+          "Port-Name": "La Romana, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/13 10:00",
+          "Date-Time(to)": "2026/11/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1120,
+          "Port-Name": "Jost Van Dyke Island BVI, Belle Vue, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/14 08:00",
+          "Date-Time(to)": "2026/11/14 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/11/15 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414759,
+      "Departure-Date": "2026/11/15",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/11/15 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/16 09:00",
+          "Date-Time(to)": "2026/11/16 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1957,
+          "Port-Name": "Anguilla Island, UK, Sandy Ground"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/17 09:00",
+          "Date-Time(to)": "2026/11/17 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/18 08:00",
+          "Date-Time(to)": "2026/11/18 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 823,
+          "Port-Name": "St Croix Island USVI, Frederiksted-Christiansted, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/19 08:00",
+          "Date-Time(to)": "2026/11/19 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9068,
+          "Port-Name": "Catalina Island, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/20 09:00",
+          "Date-Time(to)": "2026/11/20 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/11/22 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414760,
+      "Departure-Date": "2026/11/22",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/11/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/25 08:00",
+          "Date-Time(to)": "2026/11/25 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/26 09:00",
+          "Date-Time(to)": "2026/11/26 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/27 09:00",
+          "Date-Time(to)": "2026/11/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/28 08:00",
+          "Date-Time(to)": "2026/11/28 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/11/29 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414761,
+      "Departure-Date": "2026/11/29",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/11/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/11/30 09:00",
+          "Date-Time(to)": "2026/11/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/01 09:00",
+          "Date-Time(to)": "2026/12/01 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/02 08:00",
+          "Date-Time(to)": "2026/12/02 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/04 08:00",
+          "Date-Time(to)": "2026/12/04 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 395,
+          "Port-Name": "Grand Turk Island, Cockburn Town, Turks and Caicos"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/12/06 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414762,
+      "Departure-Date": "2026/12/06",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/12/06 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/09 09:00",
+          "Date-Time(to)": "2026/12/09 18:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/10 09:00",
+          "Date-Time(to)": "2026/12/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/11 09:00",
+          "Date-Time(to)": "2026/12/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/12 08:00",
+          "Date-Time(to)": "2026/12/12 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/12/13 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414763,
+      "Departure-Date": "2026/12/13",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/12/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/14 09:00",
+          "Date-Time(to)": "2026/12/14 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1957,
+          "Port-Name": "Anguilla Island, UK, Sandy Ground"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/15 09:00",
+          "Date-Time(to)": "2026/12/15 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/16 08:00",
+          "Date-Time(to)": "2026/12/16 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/18 08:00",
+          "Date-Time(to)": "2026/12/18 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 395,
+          "Port-Name": "Grand Turk Island, Cockburn Town, Turks and Caicos"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/12/20 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414764,
+      "Departure-Date": "2026/12/20",
+      "Itinerary-Title": "8 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/12/20 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/22 09:00",
+          "Date-Time(to)": "2026/12/22 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 708,
+          "Port-Name": "Ocho Rios, Jamaica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/24 09:00",
+          "Date-Time(to)": "2026/12/24 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 9068,
+          "Port-Name": "Catalina Island, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/25 12:00",
+          "Date-Time(to)": "2026/12/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1120,
+          "Port-Name": "Jost Van Dyke Island BVI, Belle Vue, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/26 08:00",
+          "Date-Time(to)": "2026/12/26 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/27 08:00",
+          "Date-Time(to)": "2026/12/27 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 604,
+          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/12/28 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414765,
+      "Departure-Date": "2026/12/28",
+      "Itinerary-Title": "8 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/12/28 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/29 09:00",
+          "Date-Time(to)": "2026/12/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/30 08:00",
+          "Date-Time(to)": "2026/12/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 941,
+          "Port-Name": "Pointe-a-Pitre, Grande-Terre Island Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/12/31 08:00",
+          "Date-Time(to)": "2026/12/31 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/02 08:00",
+          "Date-Time(to)": "2027/01/02 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 454,
+          "Port-Name": "Samana, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/03 08:00",
+          "Date-Time(to)": "2027/01/03 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/01/05 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414766,
+      "Departure-Date": "2027/01/05",
+      "Itinerary-Title": "8 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/01/05 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/08 09:00",
+          "Date-Time(to)": "2027/01/08 18:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/09 08:00",
+          "Date-Time(to)": "2027/01/09 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/10 08:00",
+          "Date-Time(to)": "2027/01/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/11 08:00",
+          "Date-Time(to)": "2027/01/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/12 08:00",
+          "Date-Time(to)": "2027/01/12 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/01/13 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414767,
+      "Departure-Date": "2027/01/13",
+      "Itinerary-Title": "8 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/01/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/14 09:00",
+          "Date-Time(to)": "2027/01/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/15 09:00",
+          "Date-Time(to)": "2027/01/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/16 09:00",
+          "Date-Time(to)": "2027/01/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1375,
+          "Port-Name": "St Georges Grenada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/17 08:00",
+          "Date-Time(to)": "2027/01/17 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 461,
+          "Port-Name": "Castries, St Lucia Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/19 09:00",
+          "Date-Time(to)": "2027/01/19 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/01/21 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414768,
+      "Departure-Date": "2027/01/21",
+      "Itinerary-Title": "8 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/01/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/24 08:00",
+          "Date-Time(to)": "2027/01/24 18:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 604,
+          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/25 08:00",
+          "Date-Time(to)": "2027/01/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 1957,
+          "Port-Name": "Anguilla Island, UK, Sandy Ground"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/26 09:00",
+          "Date-Time(to)": "2027/01/26 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": null,
+          "Port-Name": "Saint-Pierre Martinique"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/27 09:00",
+          "Date-Time(to)": "2027/01/27 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/28 08:00",
+          "Date-Time(to)": "2027/01/28 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/01/29 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414769,
+      "Departure-Date": "2027/01/29",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/01/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/30 09:00",
+          "Date-Time(to)": "2027/01/30 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/01/31 08:00",
+          "Date-Time(to)": "2027/01/31 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/02 09:00",
+          "Date-Time(to)": "2027/02/02 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 15013,
+          "Port-Name": "Providenciales Island, Turks and Caicos Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/04 08:30",
+          "Date-Time(to)": "2027/02/04 17:30",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 121,
+          "Port-Name": "Key West, Florida"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/02/05 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414770,
+      "Departure-Date": "2027/02/05",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/02/05 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/08 09:00",
+          "Date-Time(to)": "2027/02/08 21:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/09 09:00",
+          "Date-Time(to)": "2027/02/09 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/10 09:00",
+          "Date-Time(to)": "2027/02/10 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/11 08:00",
+          "Date-Time(to)": "2027/02/11 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/02/12 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414771,
+      "Departure-Date": "2027/02/12",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/02/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/13 09:00",
+          "Date-Time(to)": "2027/02/13 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 604,
+          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/14 09:00",
+          "Date-Time(to)": "2027/02/14 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/15 09:00",
+          "Date-Time(to)": "2027/02/15 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/17 08:00",
+          "Date-Time(to)": "2027/02/17 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/02/19 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414772,
+      "Departure-Date": "2027/02/19",
+      "Itinerary-Title": "9 days, round-trip A Journey through Caribbean Delights Wildlife Wonders",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/02/19 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/21 09:00",
+          "Date-Time(to)": "2027/02/21 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 1936,
+          "Port-Name": "Puerto Plata-Amber Cove, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/22 08:00",
+          "Date-Time(to)": "2027/02/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 454,
+          "Port-Name": "Samana, Dominicana"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/23 09:00",
+          "Date-Time(to)": "2027/02/23 23:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/24 08:00",
+          "Date-Time(to)": "2027/02/24 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 983,
+          "Port-Name": "Virgin Gorda Island BVI, Spanish Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/02/25 09:00",
+          "Date-Time(to)": "2027/02/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 1957,
+          "Port-Name": "Anguilla Island, UK, Sandy Ground"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/02/28 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414773,
+      "Departure-Date": "2027/02/28",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/02/28 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/03 08:00",
+          "Date-Time(to)": "2027/03/03 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/04 09:00",
+          "Date-Time(to)": "2027/03/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/05 09:00",
+          "Date-Time(to)": "2027/03/05 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/06 09:00",
+          "Date-Time(to)": "2027/03/06 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 604,
+          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/03/07 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414774,
+      "Departure-Date": "2027/03/07",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/03/07 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/08 09:00",
+          "Date-Time(to)": "2027/03/08 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/09 09:00",
+          "Date-Time(to)": "2027/03/10 01:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 4,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/10 08:00",
+          "Date-Time(to)": "2027/03/10 17:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/12 09:00",
+          "Date-Time(to)": "2027/03/12 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 395,
+          "Port-Name": "Grand Turk Island, Cockburn Town, Turks and Caicos"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/03/14 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414775,
+      "Departure-Date": "2027/03/14",
+      "Itinerary-Title": "7 days, one-way from Miami to Bridgetown",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/03/14 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/16 09:00",
+          "Date-Time(to)": "2027/03/16 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 15013,
+          "Port-Name": "Providenciales Island, Turks and Caicos Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/18 09:00",
+          "Date-Time(to)": "2027/03/18 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/19 09:00",
+          "Date-Time(to)": "2027/03/19 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 463,
+          "Port-Name": "Roseau, Dominica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/20 08:00",
+          "Date-Time(to)": "2027/03/20 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 462,
+          "Port-Name": "Bequia Island, Port Elizabeth, Grenadines"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/03/21 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 28,
+          "Port-Name": "Bridgetown, Barbados"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414776,
+      "Departure-Date": "2027/03/21",
+      "Itinerary-Title": "8 days, one-way from Bridgetown to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/03/21 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 28,
+          "Port-Name": "Bridgetown, Barbados"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/22 09:00",
+          "Date-Time(to)": "2027/03/22 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 1375,
+          "Port-Name": "St Georges Grenada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/23 09:00",
+          "Date-Time(to)": "2027/03/23 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 461,
+          "Port-Name": "Castries, St Lucia Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/24 08:00",
+          "Date-Time(to)": "2027/03/24 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2382,
+          "Port-Name": "Fort-de-France, Martinique"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/25 09:00",
+          "Date-Time(to)": "2027/03/26 01:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 6,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/03/26 09:00",
+          "Date-Time(to)": "2027/03/26 18:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 983,
+          "Port-Name": "Virgin Gorda Island BVI, Spanish Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/03/29 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414777,
+      "Departure-Date": "2027/03/29",
+      "Itinerary-Title": "7 days, one-way from Miami to San Juan",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/03/29 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/01 08:00",
+          "Date-Time(to)": "2027/04/01 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2853,
+          "Port-Name": "St John Island USVI, Cruz Bay, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/02 09:00",
+          "Date-Time(to)": "2027/04/02 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/03 09:00",
+          "Date-Time(to)": "2027/04/03 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 988,
+          "Port-Name": "Iles des Saintes, Guadeloupe"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/04 09:00",
+          "Date-Time(to)": "2027/04/04 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/04/05 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414778,
+      "Departure-Date": "2027/04/05",
+      "Itinerary-Title": "7 days, one-way from San Juan to Miami",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/04/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/06 09:00",
+          "Date-Time(to)": "2027/04/07 01:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 3,
+          "Port-ID": 459,
+          "Port-Name": "Gustavia St Barths, Saint-Barthelemy Island France"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/07 09:00",
+          "Date-Time(to)": "2027/04/07 19:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 2045,
+          "Port-Name": "Montserrat Island UK, Little Bay"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/08 08:00",
+          "Date-Time(to)": "2027/04/08 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/11 09:00",
+          "Date-Time(to)": "2027/04/11 18:30",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 121,
+          "Port-Name": "Key West, Florida"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/04/12 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414779,
+      "Departure-Date": "2027/04/12",
+      "Itinerary-Title": "10 days, one-way from Miami to Panama City",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/04/12 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 40,
+          "Port-Name": "Miami, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/14 09:00",
+          "Date-Time(to)": "2027/04/14 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 708,
+          "Port-Name": "Ocho Rios, Jamaica"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/16 09:00",
+          "Date-Time(to)": "2027/04/16 23:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 31,
+          "Port-Name": "Willemstad Curacao, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/17 08:00",
+          "Date-Time(to)": "2027/04/17 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 452,
+          "Port-Name": "Oranjestad Aruba, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/18 09:00",
+          "Date-Time(to)": "2027/04/18 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 608,
+          "Port-Name": "Santa Marta Colombia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/19 08:00",
+          "Date-Time(to)": "2027/04/20 12:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 1,
+          "Date-Count": 9,
+          "Port-ID": 3733,
+          "Port-Name": "Cartagena Colombia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/21 06:00",
+          "Date-Time(to)": "2027/04/21 06:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 442,
+          "Port-Name": "Panama Canal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/21 20:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 584,
+          "Port-Name": "Panama City, Fuerte Amador, Balboa"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/04/22",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 584,
+          "Port-Name": "Panama City, Fuerte Amador, Balboa"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414780,
+      "Departure-Date": "2027/04/22",
+      "Itinerary-Title": "11 days, one-way from Panama City to Los Angeles",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/04/22 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 584,
+          "Port-Name": "Panama City, Fuerte Amador, Balboa"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/25 08:00",
+          "Date-Time(to)": "2027/04/25 18:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 1524,
+          "Port-Name": "Acajutla, El Salvador"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/26 08:00",
+          "Date-Time(to)": "2027/04/26 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 471,
+          "Port-Name": "Puerto Quetzal, Guatemala"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/27 08:00",
+          "Date-Time(to)": "2027/04/27 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 492,
+          "Port-Name": "Puerto Chiapas, Chiapas Mexico"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/28 08:00",
+          "Date-Time(to)": "2027/04/28 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 490,
+          "Port-Name": "Huatulco, La Crucecita, Mexico Riviera"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/30 09:00",
+          "Date-Time(to)": "2027/04/30 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 491,
+          "Port-Name": "Puerto Vallarta, Jalisco, Mexico Riviera"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/03 08:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 86,
+          "Port-Name": "Los Angeles, Long Beach-San Pedro, California"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414781,
+      "Departure-Date": "2027/05/03",
+      "Itinerary-Title": "7 days, one-way from Los Angeles to Vancouver",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/03 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 86,
+          "Port-Name": "Los Angeles, Long Beach-San Pedro, California"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/04 09:00",
+          "Date-Time(to)": "2027/05/04 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 89,
+          "Port-Name": "San Diego, California"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/06 08:00",
+          "Date-Time(to)": "2027/05/07 02:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 1,
+          "Date-Count": 5,
+          "Port-ID": 2,
+          "Port-Name": "San Francisco, California"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/09 09:00",
+          "Date-Time(to)": "2027/05/09 21:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 3,
+          "Port-Name": "Victoria BC, Vancouver Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/10 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414782,
+      "Departure-Date": "2027/05/10",
+      "Itinerary-Title": "11 days, round-trip A Journey Through Untamed Landscapes Coastal Treasures",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/10 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/12 09:00",
+          "Date-Time(to)": "2027/05/12 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/13 09:00",
+          "Date-Time(to)": "2027/05/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/14 07:00",
+          "Date-Time(to)": "2027/05/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/15 08:00",
+          "Date-Time(to)": "2027/05/15 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 408,
+          "Port-Name": "Skagway, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/16 09:00",
+          "Date-Time(to)": "2027/05/16 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 126,
+          "Port-Name": "Sitka, Baranof Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/17 09:00",
+          "Date-Time(to)": "2027/05/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/18 08:00",
+          "Date-Time(to)": "2027/05/18 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 413,
+          "Port-Name": "Prince Rupert BC, Kaien Island Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/20 09:00",
+          "Date-Time(to)": "2027/05/20 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 3,
+          "Port-Name": "Victoria BC, Vancouver Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/21 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414783,
+      "Departure-Date": "2027/05/21",
+      "Itinerary-Title": "11 days, round-trip A Journey of Spectacular Nature Wild Adventure",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/23 08:00",
+          "Date-Time(to)": "2027/05/23 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/24 10:00",
+          "Date-Time(to)": "2027/05/24 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/25 09:00",
+          "Date-Time(to)": "2027/05/25 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/26 09:00",
+          "Date-Time(to)": "2027/05/26 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/28 09:00",
+          "Date-Time(to)": "2027/05/28 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/29 06:00",
+          "Date-Time(to)": "2027/05/29 12:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/30 08:00",
+          "Date-Time(to)": "2027/05/30 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/06/01 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414784,
+      "Departure-Date": "2027/06/01",
+      "Itinerary-Title": "9 days, round-trip A Journey through Majestic Shores Wilderness Serenity",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/06/01 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/03 09:00",
+          "Date-Time(to)": "2027/06/03 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/04 09:00",
+          "Date-Time(to)": "2027/06/04 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 126,
+          "Port-Name": "Sitka, Baranof Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/05 09:00",
+          "Date-Time(to)": "2027/06/05 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/06 06:00",
+          "Date-Time(to)": "2027/06/06 12:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/07 14:00",
+          "Date-Time(to)": "2027/06/07 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 413,
+          "Port-Name": "Prince Rupert BC, Kaien Island Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/09 09:00",
+          "Date-Time(to)": "2027/06/09 19:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 3,
+          "Port-Name": "Victoria BC, Vancouver Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/06/10 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414785,
+      "Departure-Date": "2027/06/10",
+      "Itinerary-Title": "12 days, round-trip A Journey of Tranquil Waters Ice-Blue Horizons",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/06/10 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/12 08:00",
+          "Date-Time(to)": "2027/06/12 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/13 08:00",
+          "Date-Time(to)": "2027/06/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/15 08:00",
+          "Date-Time(to)": "2027/06/15 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/16 13:30",
+          "Date-Time(to)": "2027/06/16 17:30",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/17 09:00",
+          "Date-Time(to)": "2027/06/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/18 07:00",
+          "Date-Time(to)": "2027/06/18 12:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/19 09:00",
+          "Date-Time(to)": "2027/06/19 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/20 08:00",
+          "Date-Time(to)": "2027/06/20 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 413,
+          "Port-Name": "Prince Rupert BC, Kaien Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/06/22 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414786,
+      "Departure-Date": "2027/06/22",
+      "Itinerary-Title": "10 days, round-trip A Journey through Glacial Majesty Alaskan Spirit",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/06/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/24 08:00",
+          "Date-Time(to)": "2027/06/24 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/25 09:00",
+          "Date-Time(to)": "2027/06/25 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/26 09:00",
+          "Date-Time(to)": "2027/06/26 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/27 08:00",
+          "Date-Time(to)": "2027/06/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/29 07:00",
+          "Date-Time(to)": "2027/06/29 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/30 14:00",
+          "Date-Time(to)": "2027/06/30 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/02 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414787,
+      "Departure-Date": "2027/07/02",
+      "Itinerary-Title": "7 days, one-way from Vancouver to Seward",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/04 08:00",
+          "Date-Time(to)": "2027/07/04 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/05 09:00",
+          "Date-Time(to)": "2027/07/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/06 09:00",
+          "Date-Time(to)": "2027/07/06 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/07 09:00",
+          "Date-Time(to)": "2027/07/07 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2828,
+          "Port-Name": "Valdez, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/08 10:00",
+          "Date-Time(to)": "2027/07/08 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 404,
+          "Port-Name": "Kodiak Island, Alaska"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/09 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414788,
+      "Departure-Date": "2027/07/09",
+      "Itinerary-Title": "7 days, one-way from Seward to Vancouver",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/09 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/11 05:00",
+          "Date-Time(to)": "2027/07/11 10:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/11 14:00",
+          "Date-Time(to)": "2027/07/11 22:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/12 07:00",
+          "Date-Time(to)": "2027/07/12 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/13 09:00",
+          "Date-Time(to)": "2027/07/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 126,
+          "Port-Name": "Sitka, Baranof Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/15 09:00",
+          "Date-Time(to)": "2027/07/15 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2674,
+          "Port-Name": "Alert Bay BC, Cormorant Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/16 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414789,
+      "Departure-Date": "2027/07/16",
+      "Itinerary-Title": "7 days, one-way from Vancouver to Seward",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/16 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/18 08:00",
+          "Date-Time(to)": "2027/07/18 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/19 10:00",
+          "Date-Time(to)": "2027/07/19 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/20 09:00",
+          "Date-Time(to)": "2027/07/20 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/21 09:00",
+          "Date-Time(to)": "2027/07/21 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2828,
+          "Port-Name": "Valdez, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/22 10:00",
+          "Date-Time(to)": "2027/07/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 404,
+          "Port-Name": "Kodiak Island, Alaska"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/23 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414790,
+      "Departure-Date": "2027/07/23",
+      "Itinerary-Title": "7 days, one-way from Seward to Vancouver",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/25 05:00",
+          "Date-Time(to)": "2027/07/25 10:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/25 14:00",
+          "Date-Time(to)": "2027/07/25 22:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/26 07:00",
+          "Date-Time(to)": "2027/07/26 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/27 09:00",
+          "Date-Time(to)": "2027/07/27 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 126,
+          "Port-Name": "Sitka, Baranof Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/29 09:00",
+          "Date-Time(to)": "2027/07/29 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2674,
+          "Port-Name": "Alert Bay BC, Cormorant Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/30 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414791,
+      "Departure-Date": "2027/07/30",
+      "Itinerary-Title": "7 days, one-way from Vancouver to Seward",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/30 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/01 08:00",
+          "Date-Time(to)": "2027/08/01 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/02 09:00",
+          "Date-Time(to)": "2027/08/02 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/03 09:00",
+          "Date-Time(to)": "2027/08/03 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/04 09:00",
+          "Date-Time(to)": "2027/08/04 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 2828,
+          "Port-Name": "Valdez, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/05 10:00",
+          "Date-Time(to)": "2027/08/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 404,
+          "Port-Name": "Kodiak Island, Alaska"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/08/06 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414792,
+      "Departure-Date": "2027/08/06",
+      "Itinerary-Title": "7 days, one-way from Seward to Vancouver",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/08 05:00",
+          "Date-Time(to)": "2027/08/08 10:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/08 14:00",
+          "Date-Time(to)": "2027/08/08 22:00",
+          "Days-at-Sea": 0,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/09 07:00",
+          "Date-Time(to)": "2027/08/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/10 09:00",
+          "Date-Time(to)": "2027/08/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 126,
+          "Port-Name": "Sitka, Baranof Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/12 09:00",
+          "Date-Time(to)": "2027/08/12 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2674,
+          "Port-Name": "Alert Bay BC, Cormorant Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/08/13 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414793,
+      "Departure-Date": "2027/08/13",
+      "Itinerary-Title": "11 days, round-trip A Journey through Everlasting Enchantment Untouched Landscapes",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/13 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/15 08:00",
+          "Date-Time(to)": "2027/08/15 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/16 10:00",
+          "Date-Time(to)": "2027/08/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/17 09:00",
+          "Date-Time(to)": "2027/08/17 13:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 406,
+          "Port-Name": "Hubbard Glacier, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/18 09:00",
+          "Date-Time(to)": "2027/08/18 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1,
+          "Port-Name": "Seward, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/20 07:00",
+          "Date-Time(to)": "2027/08/20 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/21 09:00",
+          "Date-Time(to)": "2027/08/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/23 12:00",
+          "Date-Time(to)": "2027/08/23 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 3,
+          "Port-Name": "Victoria BC, Vancouver Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/08/24 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414794,
+      "Departure-Date": "2027/08/24",
+      "Itinerary-Title": "9 days, round-trip A Journey of Natural Sanctuaries Shoreline Serenity",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/24 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/26 09:00",
+          "Date-Time(to)": "2027/08/26 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/27 09:00",
+          "Date-Time(to)": "2027/08/27 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/28 08:00",
+          "Date-Time(to)": "2027/08/28 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 756,
+          "Port-Name": "Haines, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/29 06:00",
+          "Date-Time(to)": "2027/08/29 12:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/30 13:00",
+          "Date-Time(to)": "2027/08/30 21:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 413,
+          "Port-Name": "Prince Rupert BC, Kaien Island Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/01 09:00",
+          "Date-Time(to)": "2027/09/01 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 3,
+          "Port-Name": "Victoria BC, Vancouver Island Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/09/02 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4414795,
+      "Departure-Date": "2027/09/02",
+      "Itinerary-Title": "9 days, round-trip A Journey through Sapphire Shores Ice-Carved Paths",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/09/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/04 08:00",
+          "Date-Time(to)": "2027/09/04 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 409,
+          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/05 10:00",
+          "Date-Time(to)": "2027/09/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 2091,
+          "Port-Name": "Icy Strait Point, Hoonah, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/06 08:00",
+          "Date-Time(to)": "2027/09/06 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 4885,
+          "Port-Name": "Tracy Arm Fjord, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/07 09:00",
+          "Date-Time(to)": "2027/09/07 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 408,
+          "Port-Name": "Skagway, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/08 07:00",
+          "Date-Time(to)": "2027/09/08 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 407,
+          "Port-Name": "Juneau, Alaska"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/09 09:00",
+          "Date-Time(to)": "2027/09/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 412,
+          "Port-Name": "Wrangell AK, Alaska, Wrangell Island"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/09/11 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 10,
+          "Port-ID": 4,
+          "Port-Name": "Vancouver, BC Canada"
+        }
+      ]
+    }
+  ]
+}
