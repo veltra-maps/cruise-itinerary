@@ -42,6 +42,7 @@ GoogleSpleadSheet の AppsScript - 「Port by Country (put - GoogleDrive port-by
 #### ✅ すべての差分をまとめてアップする場合：
 
 ```bash
+cd ~/ProjectsDesktop/cruise-itinerary
 git add .
 git commit -m "Update project files"
 git push origin main
@@ -50,6 +51,7 @@ git push origin main
 #### ✅ 特定ファイルだけをアップする場合（例：README.md のみ）：
 
 ```bash
+cd ~/ProjectsDesktop/cruise-itinerary
 git add README.md
 git commit -m "Update README with latest project setup"
 git push origin main
@@ -57,26 +59,7 @@ git push origin main
 
 ---
 
-## 🌐 公開 URL 表示例 （GitHub Pages）
-
-https://veltra-maps.github.io/cruise-itinerary/?ship=1359_MSC-Bellissima&ItineraryNo=4247417
-
----
-
-## 📝 注意
-
-- `.gitignore` により以下のファイル・フォルダは Git から除外されています：
-  - `node_modules/`
-  - `.DS_Store`
-  - `package.json`
-  - `package-lock.json`
-  - `.env`
-- 追加で Git にアップしたくないファイルやフォルダがある場合は、`.gitignore` ファイルを編集し、1 行ずつパスを追記してください（例：`secret.txt` や `temp/` など）。
-- `itinerary_schedules/` はローカル開発中のみ使用され、`ship.json` にまとめた後、GitHub や Cloudflare にアップロードされます。
-
----
-
-## 📤 GitHub へのアップ手順（ローカル → GitHub）
+## 📤 GitHub への初回アップロード手順（ローカル → GitHub）
 
 以下の手順でローカルプロジェクトを GitHub に初回アップロードできます：
 
@@ -86,7 +69,7 @@ cd ~/ProjectsDesktop/cruise-itinerary
 # Git 初期化（初回のみ）
 git init
 
-# GitHub リモートリポジトリを指定
+# GitHub リモートリポジトリを SSH で指定
 git remote add origin git@github.com:veltra-maps/cruise-itinerary.git
 
 # ファイルをすべて追加してコミット
