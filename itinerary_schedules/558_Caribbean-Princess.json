@@ -3,2396 +3,7 @@
   "Cruise-Ship": "Caribbean Princess",
   "Itineraries": [
     {
-      "Itinerary-No": 4094034,
-      "Departure-Date": "2025/04/14",
-      "Itinerary-Title": "21 days, one-way from Port Canaveral to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/04/14 15:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 42,
-          "Port-Name": "Port Canaveral, Orlando, Florida"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/15 08:00",
-          "Date-Time(to)": "2025/04/15 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 27,
-          "Port-Name": "Nassau, Bahamas, New Providence Island"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/18 07:00",
-          "Date-Time(to)": "2025/04/18 15:00",
-          "Days-at-Sea": 3,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 3733,
-          "Port-Name": "Cartagena Colombia"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/19 06:00",
-          "Date-Time(to)": "2025/04/19 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 442,
-          "Port-Name": "Panama Canal"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/20 06:30",
-          "Date-Time(to)": "2025/04/20 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 7,
-          "Port-ID": 584,
-          "Port-Name": "Panama City, Fuerte Amador, Balboa"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/22 07:00",
-          "Date-Time(to)": "2025/04/22 19:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 470,
-          "Port-Name": "Puntarenas, Puerto Caldera, Costa Rica"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/25 08:00",
-          "Date-Time(to)": "2025/04/25 17:00",
-          "Days-at-Sea": 3,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 490,
-          "Port-Name": "Huatulco, La Crucecita, Mexico Riviera"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/27 08:00",
-          "Date-Time(to)": "2025/04/27 17:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 14,
-          "Port-ID": 491,
-          "Port-Name": "Puerto Vallarta, Jalisco, Mexico Riviera"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/04/30 06:15",
-          "Date-Time(to)": "2025/04/30 15:00",
-          "Days-at-Sea": 3,
-          "Port-Days": 0,
-          "Date-Count": 17,
-          "Port-ID": 86,
-          "Port-Name": "Los Angeles, Long Beach-San Pedro, California"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/02 07:00",
-          "Date-Time(to)": "2025/05/02 18:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 19,
-          "Port-ID": 2,
-          "Port-Name": "San Francisco, California"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/04 15:00",
-          "Date-Time(to)": "2025/05/04 23:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 21,
-          "Port-ID": 3,
-          "Port-Name": "Victoria BC, Vancouver Island Canada"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/05",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 22,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4144051,
-      "Departure-Date": "2025/04/30",
-      "Itinerary-Title": "5 days, one-way from Los Angeles to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/04/30 15:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 86,
-          "Port-Name": "Los Angeles, Long Beach-San Pedro, California"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/02 07:00",
-          "Date-Time(to)": "2025/05/02 18:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 2,
-          "Port-Name": "San Francisco, California"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/04 15:00",
-          "Date-Time(to)": "2025/05/04 23:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 3,
-          "Port-Name": "Victoria BC, Vancouver Island Canada"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/05",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4144052,
-      "Departure-Date": "2025/05/05",
-      "Itinerary-Title": "5 days, round-trip Alaska Sampler",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/05 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/07 11:00",
-          "Date-Time(to)": "2025/05/07 20:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 126,
-          "Port-Name": "Sitka, Baranof Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/08 10:00",
-          "Date-Time(to)": "2025/05/08 19:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/10",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4180612,
-      "Departure-Date": "2025/05/10",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/10 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/12 06:00",
-          "Date-Time(to)": "2025/05/12 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/13 08:00",
-          "Date-Time(to)": "2025/05/13 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/14 06:00",
-          "Date-Time(to)": "2025/05/14 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/15 08:15",
-          "Date-Time(to)": "2025/05/15 17:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/17",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4180611,
-      "Departure-Date": "2025/05/10",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/10 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/12 06:00",
-          "Date-Time(to)": "2025/05/12 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/13 08:00",
-          "Date-Time(to)": "2025/05/13 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/14 06:00",
-          "Date-Time(to)": "2025/05/14 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/15 08:15",
-          "Date-Time(to)": "2025/05/15 17:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/17 00:30",
-          "Date-Time(to)": "2025/05/17 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/18 15:00",
-          "Date-Time(to)": "2025/05/18 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/19 06:00",
-          "Date-Time(to)": "2025/05/19 15:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/20 05:30",
-          "Date-Time(to)": "2025/05/20 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/21 06:30",
-          "Date-Time(to)": "2025/05/21 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/22 10:00",
-          "Date-Time(to)": "2025/05/22 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/24",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213863,
-      "Departure-Date": "2025/05/17",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/17 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/18 15:00",
-          "Date-Time(to)": "2025/05/18 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/19 06:00",
-          "Date-Time(to)": "2025/05/19 15:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/20 05:30",
-          "Date-Time(to)": "2025/05/20 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/21 06:30",
-          "Date-Time(to)": "2025/05/21 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/22 10:00",
-          "Date-Time(to)": "2025/05/22 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/24",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213865,
-      "Departure-Date": "2025/05/24",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/24 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/26 06:00",
-          "Date-Time(to)": "2025/05/26 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/27 08:00",
-          "Date-Time(to)": "2025/05/27 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/28 06:00",
-          "Date-Time(to)": "2025/05/28 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/29 06:15",
-          "Date-Time(to)": "2025/05/29 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/05/31",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213864,
-      "Departure-Date": "2025/05/24",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/24 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/26 06:00",
-          "Date-Time(to)": "2025/05/26 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/27 08:00",
-          "Date-Time(to)": "2025/05/27 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/28 06:00",
-          "Date-Time(to)": "2025/05/28 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/29 06:15",
-          "Date-Time(to)": "2025/05/29 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/05/31 00:30",
-          "Date-Time(to)": "2025/05/31 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/01 15:00",
-          "Date-Time(to)": "2025/06/01 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/02 09:15",
-          "Date-Time(to)": "2025/06/02 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/03 05:30",
-          "Date-Time(to)": "2025/06/03 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/04 06:30",
-          "Date-Time(to)": "2025/06/04 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/05 10:00",
-          "Date-Time(to)": "2025/06/05 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/07",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213866,
-      "Departure-Date": "2025/05/31",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/05/31 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/01 15:00",
-          "Date-Time(to)": "2025/06/01 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/02 09:15",
-          "Date-Time(to)": "2025/06/02 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/03 05:30",
-          "Date-Time(to)": "2025/06/03 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/04 06:30",
-          "Date-Time(to)": "2025/06/04 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/05 10:00",
-          "Date-Time(to)": "2025/06/05 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/07",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213868,
-      "Departure-Date": "2025/06/07",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/07 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/09 06:00",
-          "Date-Time(to)": "2025/06/09 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/10 08:00",
-          "Date-Time(to)": "2025/06/10 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/11 06:00",
-          "Date-Time(to)": "2025/06/11 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/12 06:15",
-          "Date-Time(to)": "2025/06/12 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/14",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213867,
-      "Departure-Date": "2025/06/07",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/07 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/09 06:00",
-          "Date-Time(to)": "2025/06/09 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/10 08:00",
-          "Date-Time(to)": "2025/06/10 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/11 06:00",
-          "Date-Time(to)": "2025/06/11 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/12 06:15",
-          "Date-Time(to)": "2025/06/12 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/14 00:30",
-          "Date-Time(to)": "2025/06/14 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/15 15:00",
-          "Date-Time(to)": "2025/06/15 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/16 09:15",
-          "Date-Time(to)": "2025/06/16 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/17 05:30",
-          "Date-Time(to)": "2025/06/17 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/18 06:30",
-          "Date-Time(to)": "2025/06/18 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/19 10:00",
-          "Date-Time(to)": "2025/06/19 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/21",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213869,
-      "Departure-Date": "2025/06/14",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/14 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/15 15:00",
-          "Date-Time(to)": "2025/06/15 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/16 09:15",
-          "Date-Time(to)": "2025/06/16 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/17 05:30",
-          "Date-Time(to)": "2025/06/17 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/18 06:30",
-          "Date-Time(to)": "2025/06/18 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/19 10:00",
-          "Date-Time(to)": "2025/06/19 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/21",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213871,
-      "Departure-Date": "2025/06/21",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/21 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/23 06:00",
-          "Date-Time(to)": "2025/06/23 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/24 08:00",
-          "Date-Time(to)": "2025/06/24 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/25 06:00",
-          "Date-Time(to)": "2025/06/25 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/26 06:15",
-          "Date-Time(to)": "2025/06/26 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/06/28",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213870,
-      "Departure-Date": "2025/06/21",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/21 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/23 06:00",
-          "Date-Time(to)": "2025/06/23 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/24 08:00",
-          "Date-Time(to)": "2025/06/24 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/25 06:00",
-          "Date-Time(to)": "2025/06/25 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/26 06:15",
-          "Date-Time(to)": "2025/06/26 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/28 00:30",
-          "Date-Time(to)": "2025/06/28 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/29 15:00",
-          "Date-Time(to)": "2025/06/29 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/30 09:15",
-          "Date-Time(to)": "2025/06/30 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/01 05:30",
-          "Date-Time(to)": "2025/07/01 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/02 06:30",
-          "Date-Time(to)": "2025/07/02 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/03 10:00",
-          "Date-Time(to)": "2025/07/03 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/05",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213872,
-      "Departure-Date": "2025/06/28",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/06/28 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/29 15:00",
-          "Date-Time(to)": "2025/06/29 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/06/30 09:15",
-          "Date-Time(to)": "2025/06/30 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/01 05:30",
-          "Date-Time(to)": "2025/07/01 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/02 06:30",
-          "Date-Time(to)": "2025/07/02 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/03 10:00",
-          "Date-Time(to)": "2025/07/03 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/05",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213874,
-      "Departure-Date": "2025/07/05",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/05 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/07 06:00",
-          "Date-Time(to)": "2025/07/07 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/08 08:00",
-          "Date-Time(to)": "2025/07/08 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/09 06:00",
-          "Date-Time(to)": "2025/07/09 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/10 06:15",
-          "Date-Time(to)": "2025/07/10 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/12",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213873,
-      "Departure-Date": "2025/07/05",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/05 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/07 06:00",
-          "Date-Time(to)": "2025/07/07 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/08 08:00",
-          "Date-Time(to)": "2025/07/08 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/09 06:00",
-          "Date-Time(to)": "2025/07/09 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/10 06:15",
-          "Date-Time(to)": "2025/07/10 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/12 00:30",
-          "Date-Time(to)": "2025/07/12 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/13 15:00",
-          "Date-Time(to)": "2025/07/13 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/14 09:15",
-          "Date-Time(to)": "2025/07/14 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/15 05:30",
-          "Date-Time(to)": "2025/07/15 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/16 06:30",
-          "Date-Time(to)": "2025/07/16 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/17 10:00",
-          "Date-Time(to)": "2025/07/17 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/19",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213875,
-      "Departure-Date": "2025/07/12",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/12 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/13 15:00",
-          "Date-Time(to)": "2025/07/13 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/14 09:15",
-          "Date-Time(to)": "2025/07/14 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/15 05:30",
-          "Date-Time(to)": "2025/07/15 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/16 06:30",
-          "Date-Time(to)": "2025/07/16 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/17 10:00",
-          "Date-Time(to)": "2025/07/17 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/19",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213877,
-      "Departure-Date": "2025/07/19",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/19 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/21 06:00",
-          "Date-Time(to)": "2025/07/21 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/22 08:00",
-          "Date-Time(to)": "2025/07/22 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/23 06:00",
-          "Date-Time(to)": "2025/07/23 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/24 06:15",
-          "Date-Time(to)": "2025/07/24 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/07/26",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213876,
-      "Departure-Date": "2025/07/19",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/19 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/21 06:00",
-          "Date-Time(to)": "2025/07/21 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/22 08:00",
-          "Date-Time(to)": "2025/07/22 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/23 06:00",
-          "Date-Time(to)": "2025/07/23 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/24 06:15",
-          "Date-Time(to)": "2025/07/24 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/26 00:30",
-          "Date-Time(to)": "2025/07/26 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/27 15:00",
-          "Date-Time(to)": "2025/07/27 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/28 09:15",
-          "Date-Time(to)": "2025/07/28 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/29 05:30",
-          "Date-Time(to)": "2025/07/29 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/30 06:30",
-          "Date-Time(to)": "2025/07/30 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/31 10:00",
-          "Date-Time(to)": "2025/07/31 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/02",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213878,
-      "Departure-Date": "2025/07/26",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/07/26 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/27 15:00",
-          "Date-Time(to)": "2025/07/27 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/28 09:15",
-          "Date-Time(to)": "2025/07/28 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/29 05:30",
-          "Date-Time(to)": "2025/07/29 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/30 06:30",
-          "Date-Time(to)": "2025/07/30 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/07/31 10:00",
-          "Date-Time(to)": "2025/07/31 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/02",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213880,
-      "Departure-Date": "2025/08/02",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/02 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/04 06:00",
-          "Date-Time(to)": "2025/08/04 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/05 08:00",
-          "Date-Time(to)": "2025/08/05 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/06 06:00",
-          "Date-Time(to)": "2025/08/06 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/07 06:15",
-          "Date-Time(to)": "2025/08/07 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/09",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213879,
-      "Departure-Date": "2025/08/02",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/02 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/04 06:00",
-          "Date-Time(to)": "2025/08/04 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/05 08:00",
-          "Date-Time(to)": "2025/08/05 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/06 06:00",
-          "Date-Time(to)": "2025/08/06 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/07 06:15",
-          "Date-Time(to)": "2025/08/07 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/09 00:30",
-          "Date-Time(to)": "2025/08/09 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/10 15:00",
-          "Date-Time(to)": "2025/08/10 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/11 09:15",
-          "Date-Time(to)": "2025/08/11 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/12 05:30",
-          "Date-Time(to)": "2025/08/12 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/13 06:30",
-          "Date-Time(to)": "2025/08/13 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/14 10:00",
-          "Date-Time(to)": "2025/08/14 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/16",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213881,
-      "Departure-Date": "2025/08/09",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/09 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/10 15:00",
-          "Date-Time(to)": "2025/08/10 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/11 09:15",
-          "Date-Time(to)": "2025/08/11 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/12 05:30",
-          "Date-Time(to)": "2025/08/12 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/13 06:30",
-          "Date-Time(to)": "2025/08/13 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/14 10:00",
-          "Date-Time(to)": "2025/08/14 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/16",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213883,
-      "Departure-Date": "2025/08/16",
-      "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/16 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/18 06:00",
-          "Date-Time(to)": "2025/08/18 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/19 08:00",
-          "Date-Time(to)": "2025/08/19 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/20 06:00",
-          "Date-Time(to)": "2025/08/20 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/21 06:15",
-          "Date-Time(to)": "2025/08/21 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/23",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213882,
-      "Departure-Date": "2025/08/16",
-      "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/16 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/18 06:00",
-          "Date-Time(to)": "2025/08/18 14:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/19 08:00",
-          "Date-Time(to)": "2025/08/19 21:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/20 06:00",
-          "Date-Time(to)": "2025/08/20 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/21 06:15",
-          "Date-Time(to)": "2025/08/21 15:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/23 00:30",
-          "Date-Time(to)": "2025/08/23 20:30",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/24 15:00",
-          "Date-Time(to)": "2025/08/24 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 9,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/25 09:15",
-          "Date-Time(to)": "2025/08/25 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 10,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/26 05:30",
-          "Date-Time(to)": "2025/08/26 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/27 06:30",
-          "Date-Time(to)": "2025/08/27 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 12,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/28 10:00",
-          "Date-Time(to)": "2025/08/28 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 13,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/30",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 15,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213884,
-      "Departure-Date": "2025/08/23",
-      "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2025/08/23 20:30",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 5,
-          "Port-Name": "Whittier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/24 15:00",
-          "Date-Time(to)": "2025/08/24 20:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 406,
-          "Port-Name": "Hubbard Glacier, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/25 09:15",
-          "Date-Time(to)": "2025/08/25 18:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 3,
-          "Port-ID": 494,
-          "Port-Name": "Glacier Bay, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/26 05:30",
-          "Date-Time(to)": "2025/08/26 20:45",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 408,
-          "Port-Name": "Skagway, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/27 06:30",
-          "Date-Time(to)": "2025/08/27 16:15",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 407,
-          "Port-Name": "Juneau, Alaska"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2025/08/28 10:00",
-          "Date-Time(to)": "2025/08/28 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 409,
-          "Port-Name": "Ketchikan, Revillagigedo Island Alaska"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2025/08/30",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 4,
-          "Port-Name": "Vancouver, BC Canada"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213886,
+      "Itinerary-No": 4322842,
       "Departure-Date": "2025/08/30",
       "Itinerary-Title": "7 days, one-way from Vancouver to Whittier",
       "Schedule": [
@@ -2459,7 +70,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213885,
+      "Itinerary-No": 4322841,
       "Departure-Date": "2025/08/30",
       "Itinerary-Title": "14 days, round-trip Voyage of the Glaciers Grand Adventure",
       "Schedule": [
@@ -2586,7 +197,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213887,
+      "Itinerary-No": 4375456,
       "Departure-Date": "2025/09/06",
       "Itinerary-Title": "7 days, one-way from Whittier to Vancouver",
       "Schedule": [
@@ -2652,7 +263,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/09/13",
+          "Date-Time(from)": "2025/09/13 07:30",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -2663,7 +274,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213888,
+      "Itinerary-No": 4375457,
       "Departure-Date": "2025/09/13",
       "Itinerary-Title": "10 days, round-trip Inside Passage with Glacier Bay National Park",
       "Schedule": [
@@ -2749,7 +360,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/09/23",
+          "Date-Time(from)": "2025/09/23 07:30",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -2760,7 +371,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213890,
+      "Itinerary-No": 4375459,
       "Departure-Date": "2025/09/23",
       "Itinerary-Title": "7 days, one-way from Vancouver to Los Angeles",
       "Schedule": [
@@ -2806,7 +417,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/09/30",
+          "Date-Time(from)": "2025/09/30 06:15",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -2817,7 +428,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213889,
+      "Itinerary-No": 4375458,
       "Departure-Date": "2025/09/23",
       "Itinerary-Title": "23 days, one-way from Vancouver to Fort Lauderdale",
       "Schedule": [
@@ -2943,7 +554,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/10/16",
+          "Date-Time(from)": "2025/10/16 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -2954,7 +565,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213891,
+      "Itinerary-No": 4375460,
       "Departure-Date": "2025/09/30",
       "Itinerary-Title": "16 days, one-way from Los Angeles to Fort Lauderdale",
       "Schedule": [
@@ -3040,7 +651,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/10/16",
+          "Date-Time(from)": "2025/10/16 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -3051,7 +662,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213892,
+      "Itinerary-No": 4375461,
       "Departure-Date": "2025/10/16",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -3137,7 +748,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/10/28",
+          "Date-Time(from)": "2025/10/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3148,7 +759,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213894,
+      "Itinerary-No": 4375463,
       "Departure-Date": "2025/10/28",
       "Itinerary-Title": "10 days, round-trip Southern Caribbean with Martinique",
       "Schedule": [
@@ -3224,7 +835,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/11/07",
+          "Date-Time(from)": "2025/11/07 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -3235,7 +846,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213893,
+      "Itinerary-No": 4375462,
       "Departure-Date": "2025/10/28",
       "Itinerary-Title": "20 days, round-trip Caribbean Explorer",
       "Schedule": [
@@ -3381,7 +992,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/11/17",
+          "Date-Time(from)": "2025/11/17 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3392,7 +1003,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213895,
+      "Itinerary-No": 4375464,
       "Departure-Date": "2025/11/07",
       "Itinerary-Title": "10 days, round-trip Eastern Caribbean with Tortola",
       "Schedule": [
@@ -3468,7 +1079,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/11/17",
+          "Date-Time(from)": "2025/11/17 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3479,7 +1090,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213896,
+      "Itinerary-No": 4375465,
       "Departure-Date": "2025/11/17",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean Holiday",
       "Schedule": [
@@ -3565,7 +1176,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/11/29",
+          "Date-Time(from)": "2025/11/29 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3576,7 +1187,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213897,
+      "Itinerary-No": 4375466,
       "Departure-Date": "2025/11/29",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -3662,7 +1273,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/12/11",
+          "Date-Time(from)": "2025/12/11 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -3673,7 +1284,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213898,
+      "Itinerary-No": 4375467,
       "Departure-Date": "2025/12/11",
       "Itinerary-Title": "12 days, round-trip Circle Caribbean",
       "Schedule": [
@@ -3749,7 +1360,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2025/12/23",
+          "Date-Time(from)": "2025/12/23 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -3760,7 +1371,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213899,
+      "Itinerary-No": 4375468,
       "Departure-Date": "2025/12/23",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean Holiday",
       "Schedule": [
@@ -3846,7 +1457,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/01/04",
+          "Date-Time(from)": "2026/01/04 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3857,7 +1468,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213900,
+      "Itinerary-No": 4375469,
       "Departure-Date": "2026/01/04",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -3943,7 +1554,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/01/16",
+          "Date-Time(from)": "2026/01/16 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -3954,7 +1565,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213901,
+      "Itinerary-No": 4375470,
       "Departure-Date": "2026/01/16",
       "Itinerary-Title": "12 days, round-trip Circle Caribbean",
       "Schedule": [
@@ -4030,7 +1641,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/01/28",
+          "Date-Time(from)": "2026/01/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -4041,7 +1652,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213902,
+      "Itinerary-No": 4375471,
       "Departure-Date": "2026/01/28",
       "Itinerary-Title": "12 days, round-trip Southern Caribbean with Panama",
       "Schedule": [
@@ -4117,7 +1728,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/02/09",
+          "Date-Time(from)": "2026/02/09 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -4128,7 +1739,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213903,
+      "Itinerary-No": 4375472,
       "Departure-Date": "2026/02/09",
       "Itinerary-Title": "12 days, round-trip Circle Caribbean",
       "Schedule": [
@@ -4214,7 +1825,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/02/21",
+          "Date-Time(from)": "2026/02/21 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -4225,7 +1836,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213904,
+      "Itinerary-No": 4375473,
       "Departure-Date": "2026/02/21",
       "Itinerary-Title": "12 days, round-trip Southern Caribbean with Panama",
       "Schedule": [
@@ -4301,7 +1912,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/03/05",
+          "Date-Time(from)": "2026/03/05 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -4312,7 +1923,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213905,
+      "Itinerary-No": 4375474,
       "Departure-Date": "2026/03/05",
       "Itinerary-Title": "12 days, round-trip Circle Caribbean",
       "Schedule": [
@@ -4398,7 +2009,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/03/17",
+          "Date-Time(from)": "2026/03/17 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -4409,7 +2020,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213906,
+      "Itinerary-No": 4375475,
       "Departure-Date": "2026/03/17",
       "Itinerary-Title": "12 days, round-trip Southern Caribbean with Panama",
       "Schedule": [
@@ -4485,7 +2096,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/03/29",
+          "Date-Time(from)": "2026/03/29 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -4496,94 +2107,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213908,
-      "Departure-Date": "2026/03/29",
-      "Itinerary-Title": "10 days, round-trip Southern Caribbean with Martinique",
-      "Schedule": [
-        {
-          "Start-End": 1,
-          "Date-Time(from)": null,
-          "Date-Time(to)": "2026/03/29 15:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 1,
-          "Port-ID": 44,
-          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/03/30 09:00",
-          "Date-Time(to)": "2026/03/30 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 2,
-          "Port-ID": 3619,
-          "Port-Name": "Princess Cays, Bahamas, Eleuthera Island"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/01 10:00",
-          "Date-Time(to)": "2026/04/01 18:00",
-          "Days-at-Sea": 2,
-          "Port-Days": 0,
-          "Date-Count": 4,
-          "Port-ID": 39,
-          "Port-Name": "San Juan, Puerto Rico"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/02 08:00",
-          "Date-Time(to)": "2026/04/02 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 5,
-          "Port-ID": 464,
-          "Port-Name": "Basseterre St Kitts, Port Zante"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/03 09:00",
-          "Date-Time(to)": "2026/04/03 19:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 461,
-          "Port-Name": "Castries, St Lucia Island"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/04 07:00",
-          "Date-Time(to)": "2026/04/04 17:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 7,
-          "Port-ID": 2382,
-          "Port-Name": "Fort-de-France, Martinique"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/05 07:00",
-          "Date-Time(to)": "2026/04/05 16:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 8,
-          "Port-ID": 37,
-          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
-        },
-        {
-          "Start-End": 2,
-          "Date-Time(from)": "2026/04/08",
-          "Date-Time(to)": null,
-          "Days-at-Sea": 3,
-          "Port-Days": 0,
-          "Date-Count": 11,
-          "Port-ID": 44,
-          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
-        }
-      ]
-    },
-    {
-      "Itinerary-No": 4213907,
+      "Itinerary-No": 4375476,
       "Departure-Date": "2026/03/29",
       "Itinerary-Title": "20 days, round-trip Caribbean Explorer",
       "Schedule": [
@@ -4729,7 +2253,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/04/18",
+          "Date-Time(from)": "2026/04/18 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -4740,14 +2264,14 @@
       ]
     },
     {
-      "Itinerary-No": 4213910,
-      "Departure-Date": "2026/04/08",
-      "Itinerary-Title": "10 days, round-trip Eastern Caribbean with Tortola",
+      "Itinerary-No": 4375477,
+      "Departure-Date": "2026/03/29",
+      "Itinerary-Title": "10 days, round-trip Southern Caribbean with Martinique",
       "Schedule": [
         {
           "Start-End": 1,
           "Date-Time(from)": null,
-          "Date-Time(to)": "2026/04/08 15:00",
+          "Date-Time(to)": "2026/03/29 15:00",
           "Days-at-Sea": 1,
           "Port-Days": 0,
           "Date-Count": 1,
@@ -4756,8 +2280,8 @@
         },
         {
           "Start-End": 0,
-          "Date-Time(from)": "2026/04/09 09:00",
-          "Date-Time(to)": "2026/04/09 16:00",
+          "Date-Time(from)": "2026/03/30 09:00",
+          "Date-Time(to)": "2026/03/30 16:00",
           "Days-at-Sea": 1,
           "Port-Days": 0,
           "Date-Count": 2,
@@ -4766,57 +2290,57 @@
         },
         {
           "Start-End": 0,
-          "Date-Time(from)": "2026/04/11 10:00",
-          "Date-Time(to)": "2026/04/11 22:00",
+          "Date-Time(from)": "2026/04/01 10:00",
+          "Date-Time(to)": "2026/04/01 18:00",
           "Days-at-Sea": 2,
           "Port-Days": 0,
           "Date-Count": 4,
-          "Port-ID": 604,
-          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+          "Port-ID": 39,
+          "Port-Name": "San Juan, Puerto Rico"
         },
         {
           "Start-End": 0,
-          "Date-Time(from)": "2026/04/12 08:00",
-          "Date-Time(to)": "2026/04/12 18:00",
+          "Date-Time(from)": "2026/04/02 08:00",
+          "Date-Time(to)": "2026/04/02 18:00",
           "Days-at-Sea": 1,
           "Port-Days": 0,
           "Date-Count": 5,
-          "Port-ID": 594,
-          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/13 08:00",
-          "Date-Time(to)": "2026/04/13 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 6,
-          "Port-ID": 37,
-          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
-        },
-        {
-          "Start-End": 0,
-          "Date-Time(from)": "2026/04/14 08:00",
-          "Date-Time(to)": "2026/04/14 18:00",
-          "Days-at-Sea": 1,
-          "Port-Days": 0,
-          "Date-Count": 7,
           "Port-ID": 464,
           "Port-Name": "Basseterre St Kitts, Port Zante"
         },
         {
           "Start-End": 0,
-          "Date-Time(from)": "2026/04/15 07:00",
-          "Date-Time(to)": "2026/04/15 16:00",
+          "Date-Time(from)": "2026/04/03 09:00",
+          "Date-Time(to)": "2026/04/03 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 461,
+          "Port-Name": "Castries, St Lucia Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/04 07:00",
+          "Date-Time(to)": "2026/04/04 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 2382,
+          "Port-Name": "Fort-de-France, Martinique"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/05 07:00",
+          "Date-Time(to)": "2026/04/05 16:00",
           "Days-at-Sea": 1,
           "Port-Days": 0,
           "Date-Count": 8,
-          "Port-ID": 35,
-          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/04/18",
+          "Date-Time(from)": "2026/04/08 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -4827,7 +2351,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213909,
+      "Itinerary-No": 4375478,
       "Departure-Date": "2026/04/08",
       "Itinerary-Title": "20 days, round-trip Caribbean Explorer",
       "Schedule": [
@@ -4973,7 +2497,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/04/28",
+          "Date-Time(from)": "2026/04/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -4984,7 +2508,94 @@
       ]
     },
     {
-      "Itinerary-No": 4213911,
+      "Itinerary-No": 4375479,
+      "Departure-Date": "2026/04/08",
+      "Itinerary-Title": "10 days, round-trip Eastern Caribbean with Tortola",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2026/04/08 15:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 44,
+          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/09 09:00",
+          "Date-Time(to)": "2026/04/09 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 3619,
+          "Port-Name": "Princess Cays, Bahamas, Eleuthera Island"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/11 10:00",
+          "Date-Time(to)": "2026/04/11 22:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 604,
+          "Port-Name": "St Thomas Island USVI, Charlotte Amalie, US Virgin Islands"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/12 08:00",
+          "Date-Time(to)": "2026/04/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 594,
+          "Port-Name": "Philipsburg St Maarten, Netherlands Antilles"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/13 08:00",
+          "Date-Time(to)": "2026/04/13 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 37,
+          "Port-Name": "St Johns Antigua, RCI Royal Beach Club"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/14 08:00",
+          "Date-Time(to)": "2026/04/14 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 464,
+          "Port-Name": "Basseterre St Kitts, Port Zante"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2026/04/15 07:00",
+          "Date-Time(to)": "2026/04/15 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 35,
+          "Port-Name": "Tortola Island BVI, Road Town, UK Virgin Islands"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2026/04/18 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 44,
+          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375480,
       "Departure-Date": "2026/04/18",
       "Itinerary-Title": "10 days, round-trip Southern Caribbean with Martinique",
       "Schedule": [
@@ -5060,7 +2671,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/04/28",
+          "Date-Time(from)": "2026/04/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5071,7 +2682,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213912,
+      "Itinerary-No": 4375481,
       "Departure-Date": "2026/04/28",
       "Itinerary-Title": "13 days, one-way from Fort Lauderdale to Port Canaveral",
       "Schedule": [
@@ -5167,7 +2778,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/05/11",
+          "Date-Time(from)": "2026/05/11 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -5178,7 +2789,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213913,
+      "Itinerary-No": 4375482,
       "Departure-Date": "2026/05/11",
       "Itinerary-Title": "6 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -5224,7 +2835,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/05/17",
+          "Date-Time(from)": "2026/05/17 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -5235,7 +2846,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213915,
+      "Itinerary-No": 4375484,
       "Departure-Date": "2026/05/17",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -5291,7 +2902,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/05/24",
+          "Date-Time(from)": "2026/05/24 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -5302,7 +2913,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213914,
+      "Itinerary-No": 4375483,
       "Departure-Date": "2026/05/17",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -5398,7 +3009,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/05/31",
+          "Date-Time(from)": "2026/05/31 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5409,7 +3020,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213917,
+      "Itinerary-No": 4375486,
       "Departure-Date": "2026/05/24",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -5455,7 +3066,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/05/31",
+          "Date-Time(from)": "2026/05/31 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5466,7 +3077,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213916,
+      "Itinerary-No": 4375485,
       "Departure-Date": "2026/05/24",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -5552,7 +3163,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/07",
+          "Date-Time(from)": "2026/06/07 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5563,7 +3174,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213919,
+      "Itinerary-No": 4375488,
       "Departure-Date": "2026/05/31",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -5609,7 +3220,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/07",
+          "Date-Time(from)": "2026/06/07 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5620,7 +3231,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213918,
+      "Itinerary-No": 4375487,
       "Departure-Date": "2026/05/31",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -5716,7 +3327,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/14",
+          "Date-Time(from)": "2026/06/14 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -5727,7 +3338,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213921,
+      "Itinerary-No": 4375490,
       "Departure-Date": "2026/06/07",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -5783,7 +3394,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/14",
+          "Date-Time(from)": "2026/06/14 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -5794,7 +3405,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213920,
+      "Itinerary-No": 4375489,
       "Departure-Date": "2026/06/07",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -5890,7 +3501,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/21",
+          "Date-Time(from)": "2026/06/21 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5901,7 +3512,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213923,
+      "Itinerary-No": 4375492,
       "Departure-Date": "2026/06/14",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -5947,7 +3558,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/21",
+          "Date-Time(from)": "2026/06/21 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -5958,7 +3569,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213922,
+      "Itinerary-No": 4375491,
       "Departure-Date": "2026/06/14",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -6044,7 +3655,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/28",
+          "Date-Time(from)": "2026/06/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6055,7 +3666,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213925,
+      "Itinerary-No": 4375494,
       "Departure-Date": "2026/06/21",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -6101,7 +3712,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/06/28",
+          "Date-Time(from)": "2026/06/28 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6112,7 +3723,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213924,
+      "Itinerary-No": 4375493,
       "Departure-Date": "2026/06/21",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -6208,7 +3819,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/05",
+          "Date-Time(from)": "2026/07/05 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6219,7 +3830,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213927,
+      "Itinerary-No": 4375496,
       "Departure-Date": "2026/06/28",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -6275,7 +3886,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/05",
+          "Date-Time(from)": "2026/07/05 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6286,7 +3897,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213926,
+      "Itinerary-No": 4375495,
       "Departure-Date": "2026/06/28",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -6382,7 +3993,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/12",
+          "Date-Time(from)": "2026/07/12 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6393,7 +4004,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213929,
+      "Itinerary-No": 4375498,
       "Departure-Date": "2026/07/05",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -6439,7 +4050,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/12",
+          "Date-Time(from)": "2026/07/12 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6450,7 +4061,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213928,
+      "Itinerary-No": 4375497,
       "Departure-Date": "2026/07/05",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -6536,7 +4147,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/19",
+          "Date-Time(from)": "2026/07/19 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6547,7 +4158,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213931,
+      "Itinerary-No": 4375500,
       "Departure-Date": "2026/07/12",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -6593,7 +4204,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/19",
+          "Date-Time(from)": "2026/07/19 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6604,7 +4215,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213930,
+      "Itinerary-No": 4375499,
       "Departure-Date": "2026/07/12",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -6700,7 +4311,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/26",
+          "Date-Time(from)": "2026/07/26 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6711,7 +4322,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213933,
+      "Itinerary-No": 4375502,
       "Departure-Date": "2026/07/19",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -6767,7 +4378,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/07/26",
+          "Date-Time(from)": "2026/07/26 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -6778,7 +4389,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213932,
+      "Itinerary-No": 4375501,
       "Departure-Date": "2026/07/19",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -6874,7 +4485,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/02",
+          "Date-Time(from)": "2026/08/02 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6885,7 +4496,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213935,
+      "Itinerary-No": 4375504,
       "Departure-Date": "2026/07/26",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -6931,7 +4542,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/02",
+          "Date-Time(from)": "2026/08/02 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -6942,7 +4553,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213934,
+      "Itinerary-No": 4375503,
       "Departure-Date": "2026/07/26",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -7028,7 +4639,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/09",
+          "Date-Time(from)": "2026/08/09 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7039,7 +4650,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213937,
+      "Itinerary-No": 4375506,
       "Departure-Date": "2026/08/02",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -7085,7 +4696,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/09",
+          "Date-Time(from)": "2026/08/09 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7096,7 +4707,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213936,
+      "Itinerary-No": 4375505,
       "Departure-Date": "2026/08/02",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -7192,7 +4803,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/16",
+          "Date-Time(from)": "2026/08/16 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7203,7 +4814,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213939,
+      "Itinerary-No": 4375508,
       "Departure-Date": "2026/08/09",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -7259,7 +4870,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/16",
+          "Date-Time(from)": "2026/08/16 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7270,7 +4881,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213938,
+      "Itinerary-No": 4375507,
       "Departure-Date": "2026/08/09",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -7366,7 +4977,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/23",
+          "Date-Time(from)": "2026/08/23 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7377,7 +4988,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213941,
+      "Itinerary-No": 4375510,
       "Departure-Date": "2026/08/16",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -7423,7 +5034,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/23",
+          "Date-Time(from)": "2026/08/23 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7434,7 +5045,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213940,
+      "Itinerary-No": 4375509,
       "Departure-Date": "2026/08/16",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -7520,7 +5131,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/30",
+          "Date-Time(from)": "2026/08/30 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7531,7 +5142,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213943,
+      "Itinerary-No": 4375512,
       "Departure-Date": "2026/08/23",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -7577,7 +5188,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/08/30",
+          "Date-Time(from)": "2026/08/30 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7588,7 +5199,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213942,
+      "Itinerary-No": 4375511,
       "Departure-Date": "2026/08/23",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -7684,7 +5295,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/06",
+          "Date-Time(from)": "2026/09/06 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7695,7 +5306,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213945,
+      "Itinerary-No": 4375514,
       "Departure-Date": "2026/08/30",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -7751,7 +5362,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/06",
+          "Date-Time(from)": "2026/09/06 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -7762,7 +5373,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213944,
+      "Itinerary-No": 4375513,
       "Departure-Date": "2026/08/30",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -7858,7 +5469,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/13",
+          "Date-Time(from)": "2026/09/13 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7869,7 +5480,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213947,
+      "Itinerary-No": 4375516,
       "Departure-Date": "2026/09/06",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -7915,7 +5526,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/13",
+          "Date-Time(from)": "2026/09/13 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -7926,7 +5537,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213946,
+      "Itinerary-No": 4375515,
       "Departure-Date": "2026/09/06",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -8012,7 +5623,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/20",
+          "Date-Time(from)": "2026/09/20 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8023,7 +5634,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213949,
+      "Itinerary-No": 4375518,
       "Departure-Date": "2026/09/13",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -8069,7 +5680,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/20",
+          "Date-Time(from)": "2026/09/20 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8080,7 +5691,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213948,
+      "Itinerary-No": 4375517,
       "Departure-Date": "2026/09/13",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -8176,7 +5787,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/27",
+          "Date-Time(from)": "2026/09/27 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8187,7 +5798,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213951,
+      "Itinerary-No": 4375520,
       "Departure-Date": "2026/09/20",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -8243,7 +5854,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/09/27",
+          "Date-Time(from)": "2026/09/27 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8254,7 +5865,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213950,
+      "Itinerary-No": 4375519,
       "Departure-Date": "2026/09/20",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -8360,7 +5971,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/04",
+          "Date-Time(from)": "2026/10/04 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8371,7 +5982,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213953,
+      "Itinerary-No": 4375522,
       "Departure-Date": "2026/09/27",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -8427,7 +6038,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/04",
+          "Date-Time(from)": "2026/10/04 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8438,7 +6049,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213952,
+      "Itinerary-No": 4375521,
       "Departure-Date": "2026/09/27",
       "Itinerary-Title": "14 days, round-trip Eastern Caribbean Adventurer",
       "Schedule": [
@@ -8534,7 +6145,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/11",
+          "Date-Time(from)": "2026/10/11 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8545,7 +6156,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213955,
+      "Itinerary-No": 4375524,
       "Departure-Date": "2026/10/04",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Puerto Rico",
       "Schedule": [
@@ -8591,7 +6202,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/11",
+          "Date-Time(from)": "2026/10/11 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8602,7 +6213,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213954,
+      "Itinerary-No": 4375523,
       "Departure-Date": "2026/10/04",
       "Itinerary-Title": "14 days, round-trip EasternWestern Caribbean Adventurer",
       "Schedule": [
@@ -8698,7 +6309,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/18",
+          "Date-Time(from)": "2026/10/18 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8709,7 +6320,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213956,
+      "Itinerary-No": 4375525,
       "Departure-Date": "2026/10/11",
       "Itinerary-Title": "7 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -8765,7 +6376,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/18",
+          "Date-Time(from)": "2026/10/18 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 2,
           "Port-Days": 0,
@@ -8776,7 +6387,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213957,
+      "Itinerary-No": 4375526,
       "Departure-Date": "2026/10/18",
       "Itinerary-Title": "12 days, one-way from Port Canaveral to Fort Lauderdale",
       "Schedule": [
@@ -8852,7 +6463,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/10/30",
+          "Date-Time(from)": "2026/10/30 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -8863,7 +6474,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213958,
+      "Itinerary-No": 4375527,
       "Departure-Date": "2026/10/30",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -8939,7 +6550,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/11/11",
+          "Date-Time(from)": "2026/11/11 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -8950,7 +6561,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213959,
+      "Itinerary-No": 4375528,
       "Departure-Date": "2026/11/11",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9026,7 +6637,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/11/23",
+          "Date-Time(from)": "2026/11/23 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -9037,7 +6648,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213960,
+      "Itinerary-No": 4375529,
       "Departure-Date": "2026/11/23",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9113,7 +6724,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/12/05",
+          "Date-Time(from)": "2026/12/05 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -9124,7 +6735,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213961,
+      "Itinerary-No": 4375530,
       "Departure-Date": "2026/12/05",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9200,7 +6811,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/12/17",
+          "Date-Time(from)": "2026/12/17 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -9211,7 +6822,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213962,
+      "Itinerary-No": 4375531,
       "Departure-Date": "2026/12/17",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean Holiday",
       "Schedule": [
@@ -9287,7 +6898,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2026/12/29",
+          "Date-Time(from)": "2026/12/29 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -9298,7 +6909,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213963,
+      "Itinerary-No": 4375532,
       "Departure-Date": "2026/12/29",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean Holiday",
       "Schedule": [
@@ -9374,7 +6985,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/01/10",
+          "Date-Time(from)": "2027/01/10 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -9385,7 +6996,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213964,
+      "Itinerary-No": 4375533,
       "Departure-Date": "2027/01/10",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9461,7 +7072,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/01/22",
+          "Date-Time(from)": "2027/01/22 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -9472,7 +7083,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213965,
+      "Itinerary-No": 4375534,
       "Departure-Date": "2027/01/22",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9548,7 +7159,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/02/03",
+          "Date-Time(from)": "2027/02/03 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
@@ -9559,7 +7170,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213966,
+      "Itinerary-No": 4375535,
       "Departure-Date": "2027/02/03",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9635,7 +7246,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/02/15",
+          "Date-Time(from)": "2027/02/15 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -9646,7 +7257,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213967,
+      "Itinerary-No": 4375536,
       "Departure-Date": "2027/02/15",
       "Itinerary-Title": "12 days, round-trip Panama Canal with Costa Rica Caribbean",
       "Schedule": [
@@ -9722,7 +7333,7 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/02/27",
+          "Date-Time(from)": "2027/02/27 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 3,
           "Port-Days": 0,
@@ -9733,7 +7344,7 @@
       ]
     },
     {
-      "Itinerary-No": 4213968,
+      "Itinerary-No": 4375537,
       "Departure-Date": "2027/02/27",
       "Itinerary-Title": "6 days, round-trip Eastern Caribbean with Turks Caicos",
       "Schedule": [
@@ -9779,13 +7390,1614 @@
         },
         {
           "Start-End": 2,
-          "Date-Time(from)": "2027/03/05",
+          "Date-Time(from)": "2027/03/05 07:00",
           "Date-Time(to)": null,
           "Days-at-Sea": 1,
           "Port-Days": 0,
           "Date-Count": 7,
           "Port-ID": 44,
           "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375538,
+      "Departure-Date": "2027/04/21",
+      "Itinerary-Title": "27 days, one-way from Fort Lauderdale to Copenhagen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/04/21 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 44,
+          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/24 09:00",
+          "Date-Time(to)": "2027/04/24 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 110,
+          "Port-Name": "Kings Wharf, Bermuda"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/29 09:00",
+          "Date-Time(to)": "2027/04/29 18:00",
+          "Days-at-Sea": 5,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 628,
+          "Port-Name": "Ponta Delgada, Sao Miguel Island Azores Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/03 06:00",
+          "Date-Time(to)": "2027/05/03 22:00",
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 118,
+          "Port-Name": "Dover, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/05 07:00",
+          "Date-Time(to)": "2027/05/05 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 218,
+          "Port-Name": "Kristiansand, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/06 07:00",
+          "Date-Time(to)": "2027/05/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/08 07:00",
+          "Date-Time(to)": "2027/05/08 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/09 09:00",
+          "Date-Time(to)": "2027/05/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/10 12:00",
+          "Date-Time(to)": "2027/05/10 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/11 07:00",
+          "Date-Time(to)": "2027/05/11 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/12 10:00",
+          "Date-Time(to)": "2027/05/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 22,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/13 11:00",
+          "Date-Time(to)": "2027/05/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 23,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/14 07:00",
+          "Date-Time(to)": "2027/05/14 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 24,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/16 10:00",
+          "Date-Time(to)": "2027/05/16 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 26,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/17 07:00",
+          "Date-Time(to)": "2027/05/17 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/18 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 28,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375539,
+      "Departure-Date": "2027/04/21",
+      "Itinerary-Title": "15 days, one-way from Fort Lauderdale to Copenhagen",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/04/21 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 44,
+          "Port-Name": "Fort Lauderdale, Port Everglades, Florida"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/24 09:00",
+          "Date-Time(to)": "2027/04/24 17:00",
+          "Days-at-Sea": 3,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 110,
+          "Port-Name": "Kings Wharf, Bermuda"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/04/29 09:00",
+          "Date-Time(to)": "2027/04/29 18:00",
+          "Days-at-Sea": 5,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 628,
+          "Port-Name": "Ponta Delgada, Sao Miguel Island Azores Portugal"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/03 06:00",
+          "Date-Time(to)": "2027/05/03 22:00",
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 118,
+          "Port-Name": "Dover, England"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/05 07:00",
+          "Date-Time(to)": "2027/05/05 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 218,
+          "Port-Name": "Kristiansand, Norway"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/06 07:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375540,
+      "Departure-Date": "2027/05/06",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/06 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/08 07:00",
+          "Date-Time(to)": "2027/05/08 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/09 09:00",
+          "Date-Time(to)": "2027/05/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/10 12:00",
+          "Date-Time(to)": "2027/05/10 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/11 07:00",
+          "Date-Time(to)": "2027/05/11 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/12 10:00",
+          "Date-Time(to)": "2027/05/12 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/13 11:00",
+          "Date-Time(to)": "2027/05/13 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/14 07:00",
+          "Date-Time(to)": "2027/05/14 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/16 10:00",
+          "Date-Time(to)": "2027/05/16 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/17 07:00",
+          "Date-Time(to)": "2027/05/17 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/18 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375541,
+      "Departure-Date": "2027/05/18",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/18 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/20 07:00",
+          "Date-Time(to)": "2027/05/20 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/21 09:00",
+          "Date-Time(to)": "2027/05/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/22 12:00",
+          "Date-Time(to)": "2027/05/22 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/23 07:00",
+          "Date-Time(to)": "2027/05/23 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/24 10:00",
+          "Date-Time(to)": "2027/05/24 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/25 11:00",
+          "Date-Time(to)": "2027/05/25 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/26 07:00",
+          "Date-Time(to)": "2027/05/26 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/28 10:00",
+          "Date-Time(to)": "2027/05/28 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/05/29 07:00",
+          "Date-Time(to)": "2027/05/29 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/05/30 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375542,
+      "Departure-Date": "2027/05/30",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/05/30 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/01 07:00",
+          "Date-Time(to)": "2027/06/01 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/02 09:00",
+          "Date-Time(to)": "2027/06/02 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/03 12:00",
+          "Date-Time(to)": "2027/06/03 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/04 07:00",
+          "Date-Time(to)": "2027/06/04 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/05 10:00",
+          "Date-Time(to)": "2027/06/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/06 11:00",
+          "Date-Time(to)": "2027/06/06 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/07 07:00",
+          "Date-Time(to)": "2027/06/07 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/09 10:00",
+          "Date-Time(to)": "2027/06/09 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/10 07:00",
+          "Date-Time(to)": "2027/06/10 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/06/11 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375543,
+      "Departure-Date": "2027/06/11",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/06/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/13 07:00",
+          "Date-Time(to)": "2027/06/13 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/14 09:00",
+          "Date-Time(to)": "2027/06/14 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/15 12:00",
+          "Date-Time(to)": "2027/06/15 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/16 07:00",
+          "Date-Time(to)": "2027/06/16 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/17 10:00",
+          "Date-Time(to)": "2027/06/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/18 11:00",
+          "Date-Time(to)": "2027/06/18 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/19 07:00",
+          "Date-Time(to)": "2027/06/19 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/21 10:00",
+          "Date-Time(to)": "2027/06/21 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/22 07:00",
+          "Date-Time(to)": "2027/06/22 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/06/23 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375544,
+      "Departure-Date": "2027/06/23",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/06/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/25 07:00",
+          "Date-Time(to)": "2027/06/25 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/26 09:00",
+          "Date-Time(to)": "2027/06/26 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/27 12:00",
+          "Date-Time(to)": "2027/06/27 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/28 07:00",
+          "Date-Time(to)": "2027/06/28 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/29 10:00",
+          "Date-Time(to)": "2027/06/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/06/30 11:00",
+          "Date-Time(to)": "2027/06/30 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/01 07:00",
+          "Date-Time(to)": "2027/07/01 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/03 10:00",
+          "Date-Time(to)": "2027/07/03 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/04 07:00",
+          "Date-Time(to)": "2027/07/04 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/05 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375545,
+      "Departure-Date": "2027/07/05",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/05 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/07 07:00",
+          "Date-Time(to)": "2027/07/07 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/08 09:00",
+          "Date-Time(to)": "2027/07/08 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/09 12:00",
+          "Date-Time(to)": "2027/07/09 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/10 07:00",
+          "Date-Time(to)": "2027/07/10 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/11 10:00",
+          "Date-Time(to)": "2027/07/11 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/12 11:00",
+          "Date-Time(to)": "2027/07/12 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/13 07:00",
+          "Date-Time(to)": "2027/07/13 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/15 10:00",
+          "Date-Time(to)": "2027/07/15 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/16 07:00",
+          "Date-Time(to)": "2027/07/16 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/17 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375546,
+      "Departure-Date": "2027/07/17",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/17 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/19 07:00",
+          "Date-Time(to)": "2027/07/19 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/20 09:00",
+          "Date-Time(to)": "2027/07/20 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/21 12:00",
+          "Date-Time(to)": "2027/07/21 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/22 07:00",
+          "Date-Time(to)": "2027/07/22 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/23 10:00",
+          "Date-Time(to)": "2027/07/23 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/24 11:00",
+          "Date-Time(to)": "2027/07/24 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/25 07:00",
+          "Date-Time(to)": "2027/07/25 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/27 10:00",
+          "Date-Time(to)": "2027/07/27 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/28 07:00",
+          "Date-Time(to)": "2027/07/28 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/07/29 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375547,
+      "Departure-Date": "2027/07/29",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/07/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/07/31 07:00",
+          "Date-Time(to)": "2027/07/31 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/01 09:00",
+          "Date-Time(to)": "2027/08/01 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/02 12:00",
+          "Date-Time(to)": "2027/08/02 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/03 07:00",
+          "Date-Time(to)": "2027/08/03 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/04 10:00",
+          "Date-Time(to)": "2027/08/04 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/05 11:00",
+          "Date-Time(to)": "2027/08/05 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/06 07:00",
+          "Date-Time(to)": "2027/08/06 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/08 10:00",
+          "Date-Time(to)": "2027/08/08 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/09 07:00",
+          "Date-Time(to)": "2027/08/09 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/08/10 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375548,
+      "Departure-Date": "2027/08/10",
+      "Itinerary-Title": "28 days, one-way from Copenhagen to Boston",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/12 07:00",
+          "Date-Time(to)": "2027/08/12 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/13 09:00",
+          "Date-Time(to)": "2027/08/13 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/14 12:00",
+          "Date-Time(to)": "2027/08/14 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/15 07:00",
+          "Date-Time(to)": "2027/08/15 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/16 10:00",
+          "Date-Time(to)": "2027/08/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/17 11:00",
+          "Date-Time(to)": "2027/08/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/18 07:00",
+          "Date-Time(to)": "2027/08/18 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/20 10:00",
+          "Date-Time(to)": "2027/08/20 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/21 07:00",
+          "Date-Time(to)": "2027/08/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/22 05:00",
+          "Date-Time(to)": "2027/08/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/23 10:00",
+          "Date-Time(to)": "2027/08/23 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 14,
+          "Port-ID": 218,
+          "Port-Name": "Kristiansand, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/25 07:00",
+          "Date-Time(to)": "2027/08/25 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 16,
+          "Port-ID": 671,
+          "Port-Name": "Invergordon, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/27 07:00",
+          "Date-Time(to)": "2027/08/27 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 18,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/28 08:00",
+          "Date-Time(to)": "2027/08/28 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 19,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/29 07:00",
+          "Date-Time(to)": "2027/08/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 20,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/30 08:00",
+          "Date-Time(to)": "2027/08/30 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 21,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/03 08:00",
+          "Date-Time(to)": "2027/09/03 18:00",
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 25,
+          "Port-ID": 544,
+          "Port-Name": "St Johns NL, Newfoundland-Labrador Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/05 09:00",
+          "Date-Time(to)": "2027/09/05 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 27,
+          "Port-ID": 97,
+          "Port-Name": "Halifax, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/09/07 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 29,
+          "Port-ID": 101,
+          "Port-Name": "Boston, Massachusetts"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375549,
+      "Departure-Date": "2027/08/10",
+      "Itinerary-Title": "12 days, round-trip Norway, Denmark Sweden",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/10 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/12 07:00",
+          "Date-Time(to)": "2027/08/12 16:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 3,
+          "Port-ID": 263,
+          "Port-Name": "Visby, Gotland Island Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/13 09:00",
+          "Date-Time(to)": "2027/08/13 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 59,
+          "Port-Name": "Stockholm, Sweden"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/14 12:00",
+          "Date-Time(to)": "2027/08/14 22:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 5,
+          "Port-ID": 49,
+          "Port-Name": "Helsinki, Finland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/15 07:00",
+          "Date-Time(to)": "2027/08/15 16:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 46,
+          "Port-Name": "Tallinn, Estonia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/16 10:00",
+          "Date-Time(to)": "2027/08/16 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 53,
+          "Port-Name": "Riga, Latvia"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/17 11:00",
+          "Date-Time(to)": "2027/08/17 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 135,
+          "Port-Name": "Klaipeda, Lithuania"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/18 07:00",
+          "Date-Time(to)": "2027/08/18 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 136,
+          "Port-Name": "Gdynia-Gdansk, Poland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/20 10:00",
+          "Date-Time(to)": "2027/08/20 20:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 11,
+          "Port-ID": 57,
+          "Port-Name": "Oslo, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/21 07:00",
+          "Date-Time(to)": "2027/08/21 17:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 12,
+          "Port-ID": 184,
+          "Port-Name": "Skagen, Denmark"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/08/22 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        }
+      ]
+    },
+    {
+      "Itinerary-No": 4375550,
+      "Departure-Date": "2027/08/22",
+      "Itinerary-Title": "16 days, one-way from Copenhagen to Boston",
+      "Schedule": [
+        {
+          "Start-End": 1,
+          "Date-Time(from)": null,
+          "Date-Time(to)": "2027/08/22 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 1,
+          "Port-ID": 58,
+          "Port-Name": "Copenhagen, Denmark"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/23 10:00",
+          "Date-Time(to)": "2027/08/23 19:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 2,
+          "Port-ID": 218,
+          "Port-Name": "Kristiansand, Norway"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/25 07:00",
+          "Date-Time(to)": "2027/08/25 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 4,
+          "Port-ID": 671,
+          "Port-Name": "Invergordon, Scotland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/27 07:00",
+          "Date-Time(to)": "2027/08/27 17:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 6,
+          "Port-ID": 1357,
+          "Port-Name": "Seydisfjordur, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/28 08:00",
+          "Date-Time(to)": "2027/08/28 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 7,
+          "Port-ID": 702,
+          "Port-Name": "Akureyri, Iceland, Lake Myvatn"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/29 07:00",
+          "Date-Time(to)": "2027/08/29 18:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 8,
+          "Port-ID": 703,
+          "Port-Name": "Isafjordur, Westfjords Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/08/30 08:00",
+          "Date-Time(to)": "2027/08/30 20:00",
+          "Days-at-Sea": 1,
+          "Port-Days": 0,
+          "Date-Count": 9,
+          "Port-ID": 545,
+          "Port-Name": "Reykjavik, Iceland"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/03 08:00",
+          "Date-Time(to)": "2027/09/03 18:00",
+          "Days-at-Sea": 4,
+          "Port-Days": 0,
+          "Date-Count": 13,
+          "Port-ID": 544,
+          "Port-Name": "St Johns NL, Newfoundland-Labrador Canada"
+        },
+        {
+          "Start-End": 0,
+          "Date-Time(from)": "2027/09/05 09:00",
+          "Date-Time(to)": "2027/09/05 18:00",
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 15,
+          "Port-ID": 97,
+          "Port-Name": "Halifax, Nova Scotia Canada"
+        },
+        {
+          "Start-End": 2,
+          "Date-Time(from)": "2027/09/07 05:00",
+          "Date-Time(to)": null,
+          "Days-at-Sea": 2,
+          "Port-Days": 0,
+          "Date-Count": 17,
+          "Port-ID": 101,
+          "Port-Name": "Boston, Massachusetts"
         }
       ]
     }
